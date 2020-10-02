@@ -3,7 +3,7 @@
         "id": "stop_area:0:SA:8711300",
         "x": 601580.864994222,
         "y": 2430886.40385613,
-        "name": "gare de l'est",
+        "name": "Gare de l'Est",
         "zipCode": "75000",
         "city": "Paris",
         "elevator": false
@@ -12,7 +12,7 @@
         "id": "stop_area:0:SA:8711320",
         "x": 604718.0094603562,
         "y": 2433206.492813352,
-        "name": "pantin",
+        "name": "Pantin",
         "zipCode": "93500",
         "city": "Pantin",
         "elevator": true
@@ -21,7 +21,7 @@
         "id": "stop_area:0:SA:8711321",
         "x": 609080.5846040114,
         "y": 2433107.744652899,
-        "name": "noisy-le-sec",
+        "name": "Noisy-le-Sec",
         "zipCode": "93130",
         "city": "Noisy-le-Sec",
         "elevator": true
@@ -30,7 +30,7 @@
         "id": "stop_area:0:SA:8711340",
         "x": 610425.9089422205,
         "y": 2432927.4129639682,
-        "name": "bondy",
+        "name": "Bondy",
         "zipCode": "93140",
         "city": "Bondy",
         "elevator": true
@@ -39,7 +39,7 @@
         "id": "stop_area:0:SA:8711347",
         "x": 612844.3320524482,
         "y": 2432358.2278402606,
-        "name": "raincy villemomble",
+        "name": "Raincy Villemomble",
         "zipCode": "93340",
         "city": "Le Raincy",
         "elevator": false
@@ -48,7 +48,7 @@
         "id": "stop_area:0:SA:8711351",
         "x": 613886.9751734232,
         "y": 2431628.5924435644,
-        "name": "gagny",
+        "name": "Gagny",
         "zipCode": "93220",
         "city": "Gagny",
         "elevator": true
@@ -57,7 +57,7 @@
         "id": "stop_area:0:SA:8711352",
         "x": 615789.8017443372,
         "y": 2430937.2595492136,
-        "name": "le chénay – gagny",
+        "name": "Le Chénay – Gagny",
         "zipCode": "93220",
         "city": "Gagny",
         "elevator": true
@@ -66,7 +66,7 @@
         "id": "stop_area:0:SA:8711369",
         "x": 610637.773184618,
         "y": 2431619.0451306673,
-        "name": "rosny-bois-perrier",
+        "name": "Rosny-Bois-Perrier",
         "zipCode": "93110",
         "city": "Rosny-sous-Bois",
         "elevator": false
@@ -75,7 +75,7 @@
         "id": "stop_area:0:SA:8711370",
         "x": 610949.9720647129,
         "y": 2430285.4057718273,
-        "name": "rosny-sous-bois",
+        "name": "Rosny-sous-Bois",
         "zipCode": "93110",
         "city": "Rosny-sous-Bois",
         "elevator": true
@@ -84,7 +84,7 @@
         "id": "stop_area:0:SA:8711371",
         "x": 611085.7391161834,
         "y": 2428339.823471597,
-        "name": "val de fontenay",
+        "name": "Val de Fontenay",
         "zipCode": "94120",
         "city": "Fontenay-sous-Bois",
         "elevator": true
@@ -93,7 +93,7 @@
         "id": "stop_area:0:SA:8711374",
         "x": 611588.6333201204,
         "y": 2426685.2838135357,
-        "name": "nogent – le perreux",
+        "name": "Nogent – Le Perreux",
         "zipCode": "94170",
         "city": "Le Perreux-sur-Marne",
         "elevator": true
@@ -102,7 +102,7 @@
         "id": "stop_area:0:SA:8711377",
         "x": 612842.8188642259,
         "y": 2425189.3041921556,
-        "name": "les boullereaux-champigny",
+        "name": "Les Boullereaux-Champigny",
         "zipCode": "94500",
         "city": "Champigny-sur-Marne",
         "elevator": true
@@ -111,7 +111,7 @@
         "id": "stop_area:0:SA:8711379",
         "x": 615194.7500614569,
         "y": 2425052.0176917757,
-        "name": "villiers-sur-marne – le plessis-trévise",
+        "name": "Villiers-sur-Marne – Le Plessis-Trévise",
         "zipCode": "94350",
         "city": "Villiers-sur-Marne",
         "elevator": true
@@ -120,7 +120,7 @@
         "id": "stop_area:0:SA:8711380",
         "x": 617907.9710707812,
         "y": 2425034.845772348,
-        "name": "yvris – noisy-le-grand",
+        "name": "Yvris – Noisy-le-Grand",
         "zipCode": "93160",
         "city": "Noisy-le-Grand",
         "elevator": false
@@ -129,7 +129,7 @@
         "id": "stop_area:0:SA:8711601",
         "x": 628872.7663171442,
         "y": 2416403.2120750365,
-        "name": "gretz-armainvilliers",
+        "name": "Gretz-Armainvilliers",
         "zipCode": "77220",
         "city": "Gretz-Armainvilliers",
         "elevator": false
@@ -138,7 +138,7 @@
         "id": "stop_area:0:SA:8711602",
         "x": 625588.6488014888,
         "y": 2419100.7137294943,
-        "name": "ozoir-la-ferrière",
+        "name": "Ozoir-la-Ferrière",
         "zipCode": "77330",
         "city": "Ozoir-la-Ferrière",
         "elevator": true
@@ -147,7 +147,7 @@
         "id": "stop_area:0:SA:8711603",
         "x": 623023.5065639155,
         "y": 2421910.523306896,
-        "name": "roissy-en-brie",
+        "name": "Roissy-en-Brie",
         "zipCode": "77680",
         "city": "Roissy-en-Brie",
         "elevator": true
@@ -156,7 +156,7 @@
         "id": "stop_area:0:SA:8711604",
         "x": 620741.2207459686,
         "y": 2423060.251280589,
-        "name": "emerainville – pontault-combault",
+        "name": "Emerainville – Pontault-Combault",
         "zipCode": "77340",
         "city": "Pontault-Combault",
         "elevator": true
@@ -165,7 +165,7 @@
         "id": "stop_area:0:SA:8711611",
         "x": 618177.7273440689,
         "y": 2430746.9879017137,
-        "name": "gare de chelles gournay",
+        "name": "Chelles – Gournay",
         "zipCode": "77500",
         "city": "Chelles",
         "elevator": true
@@ -174,7 +174,7 @@
         "id": "stop_area:0:SA:8711621",
         "x": 631115.0291400689,
         "y": 2415689.1958601684,
-        "name": "gare de tournan",
+        "name": "Tournan",
         "zipCode": "77220",
         "city": "Tournan-en-Brie",
         "elevator": true
@@ -183,7 +183,7 @@
         "id": "stop_area:0:SA:8728187",
         "x": 601555.4000200479,
         "y": 2431441.4044137453,
-        "name": "magenta",
+        "name": "Magenta",
         "zipCode": "75000",
         "city": "Paris",
         "elevator": true
@@ -192,7 +192,7 @@
         "id": "stop_area:0:SA:8728189",
         "x": 599332.5075692444,
         "y": 2430603.5148954256,
-        "name": "haussmann st lazare",
+        "name": "Haussmann – Saint-Lazare",
         "zipCode": "75000",
         "city": "Paris",
         "elevator": true
@@ -201,7 +201,7 @@
         "id": "stop_area:0:SA:8765479",
         "x": 602694.8460335155,
         "y": 2433083.7046559323,
-        "name": "gare de rosa parks",
+        "name": "Rosa Parks",
         "zipCode": "75000",
         "city": "Paris",
         "elevator": true
@@ -210,7 +210,7 @@
         "id": "stop_area:0:SA:8775833",
         "x": 615887.38022557,
         "y": 2426962.6212425544,
-        "name": "noisy-le-grand mont d'est",
+        "name": "Noisy-le-Grand – Mont d'Est",
         "zipCode": "93160",
         "city": "Noisy-le-Grand",
         "elevator": true

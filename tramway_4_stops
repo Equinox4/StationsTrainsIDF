@@ -1,0 +1,182 @@
+[
+    {
+        "id": "stop_area:0:SA:8711340",
+        "x": 610425.9089422205,
+        "y": 2432927.4129639682,
+        "name": "gare de bondy",
+        "zipCode": "93140",
+        "city": "Bondy",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8711384",
+        "x": 612005.3146387369,
+        "y": 2432737.3049199944,
+        "name": "les coquetiers",
+        "zipCode": "93250",
+        "city": "Villemomble",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711385",
+        "x": 612694.3741773672,
+        "y": 2433788.3883525445,
+        "name": "les pavillons sous bois t4",
+        "zipCode": "93320",
+        "city": "Les Pavillons-sous-Bois",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711386",
+        "x": 613259.0124990613,
+        "y": 2434455.0555743105,
+        "name": "gargan",
+        "zipCode": "93320",
+        "city": "Les Pavillons-sous-Bois",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711387",
+        "x": 612420.0100884372,
+        "y": 2433143.536511476,
+        "name": "allee de la tour rendez vous",
+        "zipCode": "93250",
+        "city": "Villemomble",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711388",
+        "x": 613224.9969656398,
+        "y": 2436020.0201789,
+        "name": "l abbaye",
+        "zipCode": "93190",
+        "city": "Livry-Gargan",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711389",
+        "x": 613380.0359451616,
+        "y": 2436549.034570348,
+        "name": "freinville sevran",
+        "zipCode": "93270",
+        "city": "Sevran",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727141",
+        "x": 611627.0574415971,
+        "y": 2437139.3365776925,
+        "name": "gare d'aulnay sous bois",
+        "zipCode": "93600",
+        "city": "Aulnay-sous-Bois",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8743179",
+        "x": 613142.0086623902,
+        "y": 2436947.960538713,
+        "name": "rougemont chanteloup",
+        "zipCode": "93270",
+        "city": "Sevran",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8770425",
+        "x": 613736.3465180176,
+        "y": 2434244.9754804387,
+        "name": "republique - marx dormoy",
+        "zipCode": "93190",
+        "city": "Livry-Gargan",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8770426",
+        "x": 614305.5949931662,
+        "y": 2434522.75278207,
+        "name": "leon blum",
+        "zipCode": "93190",
+        "city": "Livry-Gargan",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8770427",
+        "x": 614839.7203038568,
+        "y": 2434518.534280887,
+        "name": "maurice audin",
+        "zipCode": "93390",
+        "city": "Clichy-sous-Bois",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8770428",
+        "x": 615357.427354408,
+        "y": 2434482.7205241616,
+        "name": "clichy-sous-bois - mairie",
+        "zipCode": "93390",
+        "city": "Clichy-sous-Bois",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8770429",
+        "x": 615535.7193577891,
+        "y": 2434106.431417894,
+        "name": "romain rolland",
+        "zipCode": "93390",
+        "city": "Clichy-sous-Bois",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8770430",
+        "x": 616031.1329863035,
+        "y": 2434057.0432496113,
+        "name": "clichy-montfermeil",
+        "zipCode": "93390",
+        "city": "Clichy-sous-Bois",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8770431",
+        "x": 616125.4427295321,
+        "y": 2433644.0444568335,
+        "name": "notre-dame-des-anges",
+        "zipCode": "93370",
+        "city": "Montfermeil",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8770432",
+        "x": 616555.6970675015,
+        "y": 2433282.850682004,
+        "name": "arboretum",
+        "zipCode": "93370",
+        "city": "Montfermeil",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8770433",
+        "x": 617188.7518923001,
+        "y": 2433651.779550843,
+        "name": "hopital de montfermeil",
+        "zipCode": "93370",
+        "city": "Montfermeil",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8798870",
+        "x": 611080.7980023358,
+        "y": 2432805.7857886157,
+        "name": "remise a jorelle",
+        "zipCode": "93140",
+        "city": "Bondy",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8798871",
+        "x": 613090.0268937784,
+        "y": 2435392.0251291404,
+        "name": "lycee henri sellier",
+        "zipCode": "93190",
+        "city": "Livry-Gargan",
+        "elevator": false
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "id": "stop_area:0:SA:59101",
+        "x": 601406.6865317125,
+        "y": 2437840.138448435,
+        "name": "marche de saint-denis",
+        "zipCode": "93210",
+        "city": "Saint-Denis",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59779",
+        "x": 601483.9992060822,
+        "y": 2438230.95204035,
+        "name": "baudelaire",
+        "zipCode": "93210",
+        "city": "Saint-Denis",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59781",
+        "x": 601499.9873957629,
+        "y": 2438487.7774723484,
+        "name": "roger semat",
+        "zipCode": "93210",
+        "city": "Saint-Denis",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59783",
+        "x": 601533.7436306429,
+        "y": 2438903.2859108723,
+        "name": "guynemer (stade auguste delaune)",
+        "zipCode": "93210",
+        "city": "Saint-Denis",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59785",
+        "x": 601568.2218745477,
+        "y": 2439341.4961977964,
+        "name": "petit pierrefitte",
+        "zipCode": "93380",
+        "city": "Pierrefitte-sur-Seine",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59787",
+        "x": 601594.0029153852,
+        "y": 2439673.548886418,
+        "name": "joncherolles",
+        "zipCode": "93380",
+        "city": "Pierrefitte-sur-Seine",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59789",
+        "x": 601604.2378676767,
+        "y": 2440036.755562809,
+        "name": "suzanne valadon",
+        "zipCode": "93380",
+        "city": "Pierrefitte-sur-Seine",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59791",
+        "x": 601736.9994841124,
+        "y": 2440591.949282706,
+        "name": "mairie de pierrefitte",
+        "zipCode": "93380",
+        "city": "Pierrefitte-sur-Seine",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59793",
+        "x": 601932.037712736,
+        "y": 2440833.0343213785,
+        "name": "alcide d'orbigny",
+        "zipCode": "93380",
+        "city": "Pierrefitte-sur-Seine",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59795",
+        "x": 602154.6313232088,
+        "y": 2441408.3008931004,
+        "name": "jacques prevert",
+        "zipCode": "93380",
+        "city": "Pierrefitte-sur-Seine",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59797",
+        "x": 602141.6366910755,
+        "y": 2441687.0454278733,
+        "name": "butte pinson (parc regional)",
+        "zipCode": "95360",
+        "city": "Montmagny",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59799",
+        "x": 602554.2365564753,
+        "y": 2442137.5496273264,
+        "name": "les cholettes",
+        "zipCode": "95200",
+        "city": "Sarcelles",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59801",
+        "x": 603010.2307499192,
+        "y": 2442111.0589971514,
+        "name": "les flanades",
+        "zipCode": "95200",
+        "city": "Sarcelles",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59803",
+        "x": 603117.7893373306,
+        "y": 2442335.2285611266,
+        "name": "paul valery",
+        "zipCode": "95200",
+        "city": "Sarcelles",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59805",
+        "x": 603526.9913791826,
+        "y": 2442265.355785684,
+        "name": "locheres",
+        "zipCode": "95200",
+        "city": "Sarcelles",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59807",
+        "x": 603995.0203813361,
+        "y": 2442091.5074608936,
+        "name": "garges-sarcelles rer",
+        "zipCode": "95140",
+        "city": "Garges-lès-Gonesse",
+        "elevator": false
+    }
+]

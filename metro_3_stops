@@ -1,0 +1,227 @@
+[
+    {
+        "id": "stop_area:0:SA:59209",
+        "x": 599697.852000957,
+        "y": 2430216.1572514647,
+        "name": "opéra",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59219",
+        "x": 597133.1849319098,
+        "y": 2431777.4248621217,
+        "name": "pereire",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59220",
+        "x": 599186.2604651821,
+        "y": 2430818.505069291,
+        "name": "saint-lazare",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59325",
+        "x": 604573.1282723738,
+        "y": 2429631.313148712,
+        "name": "gambetta",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59415",
+        "x": 598504.9721566838,
+        "y": 2431466.007875697,
+        "name": "villiers",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59434",
+        "x": 602806.1601214728,
+        "y": 2429658.4619147554,
+        "name": "parmentier",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59435",
+        "x": 605340.1950914327,
+        "y": 2429534.049640003,
+        "name": "porte de bagnolet",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59436",
+        "x": 596770.845019057,
+        "y": 2431939.627567839,
+        "name": "porte de champerret",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59437",
+        "x": 600098.9920203091,
+        "y": 2430147.049138924,
+        "name": "quatre septembre",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59438",
+        "x": 601839.9766012711,
+        "y": 2429826.985907057,
+        "name": "temple",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59439",
+        "x": 597733.1637668812,
+        "y": 2431802.298934374,
+        "name": "wagram",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59440",
+        "x": 600776.0141699017,
+        "y": 2429894.961756931,
+        "name": "sentier",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59441",
+        "x": 598131.0253022066,
+        "y": 2431545.3438494136,
+        "name": "malesherbes",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59442",
+        "x": 599355.1093297632,
+        "y": 2430567.2387361513,
+        "name": "havre-caumartin",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59443",
+        "x": 598977.372972731,
+        "y": 2431166.031362832,
+        "name": "europe",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59444",
+        "x": 600246.5368497227,
+        "y": 2429968.2451448394,
+        "name": "bourse",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59446",
+        "x": 596444.991476707,
+        "y": 2432332.0466235457,
+        "name": "louise michel",
+        "zipCode": "92300",
+        "city": "Levallois-Perret",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59447",
+        "x": 596221.2454540443,
+        "y": 2432623.049727073,
+        "name": "anatole-france",
+        "zipCode": "92300",
+        "city": "Levallois-Perret",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59448",
+        "x": 605890.4361479419,
+        "y": 2429503.536354271,
+        "name": "gallieni (parc de bagnolet)",
+        "zipCode": "93170",
+        "city": "Bagnolet",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59584",
+        "x": 603755.9751231788,
+        "y": 2429345.998499805,
+        "name": "père-lachaise",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59586",
+        "x": 601154.8119826022,
+        "y": 2429765.3950146134,
+        "name": "réaumur-sébastopol",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59557",
+        "x": 601954.6147734893,
+        "y": 2429896.2308558654,
+        "name": "république",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59588",
+        "x": 601435.9800071098,
+        "y": 2429689.7936902223,
+        "name": "arts-et-métiers",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59589",
+        "x": 595898.1625045727,
+        "y": 2433191.306642735,
+        "name": "pont de levallois-bécon",
+        "zipCode": "92300",
+        "city": "Levallois-Perret",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59670",
+        "x": 603351.0086982126,
+        "y": 2429641.9460879737,
+        "name": "rue saint-maur",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    }
+]

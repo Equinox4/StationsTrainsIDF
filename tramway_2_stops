@@ -1,0 +1,218 @@
+[
+    {
+        "id": "stop_area:0:SA:59010",
+        "x": 591559.65393689,
+        "y": 2427113.8353662738,
+        "name": "parc de st-cloud",
+        "zipCode": "92210",
+        "city": "Saint-Cloud",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59017",
+        "x": 593784.1537627508,
+        "y": 2424852.1013740925,
+        "name": "les moulineaux",
+        "zipCode": "92130",
+        "city": "Issy-les-Moulineaux",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59021",
+        "x": 592875.5745275638,
+        "y": 2424516.031606362,
+        "name": "meudon sur-seine",
+        "zipCode": "92190",
+        "city": "Meudon",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59025",
+        "x": 592288.0178101662,
+        "y": 2424856.033865916,
+        "name": "brimborion",
+        "zipCode": "92190",
+        "city": "Meudon",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59029",
+        "x": 592394.6539880575,
+        "y": 2431628.6655817665,
+        "name": "puteaux",
+        "zipCode": "92800",
+        "city": "Puteaux",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738221",
+        "x": 592866.1041352616,
+        "y": 2432597.2147585447,
+        "name": "gare de la défense (grande arche)",
+        "zipCode": "92400",
+        "city": "Courbevoie",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59037",
+        "x": 591421.3624335255,
+        "y": 2427996.37733751,
+        "name": "les milons",
+        "zipCode": "92210",
+        "city": "Saint-Cloud",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59041",
+        "x": 591553.8135916295,
+        "y": 2428732.8750608494,
+        "name": "les coteaux",
+        "zipCode": "92210",
+        "city": "Saint-Cloud",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59045",
+        "x": 591783.0277494085,
+        "y": 2425552.0224620323,
+        "name": "musee de sevres",
+        "zipCode": "92310",
+        "city": "Sèvres",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59049",
+        "x": 591957.3086987111,
+        "y": 2430859.951479939,
+        "name": "belvedere",
+        "zipCode": "92150",
+        "city": "Suresnes",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59053",
+        "x": 591645.2702860587,
+        "y": 2430025.108962576,
+        "name": "suresnes longchamp",
+        "zipCode": "92150",
+        "city": "Suresnes",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59514",
+        "x": 596437.6019029174,
+        "y": 2426042.022027455,
+        "name": "porte de versailles",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59128",
+        "x": 595853.0173486179,
+        "y": 2425896.995443186,
+        "name": "porte d'issy",
+        "zipCode": "92130",
+        "city": "Issy-les-Moulineaux",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59130",
+        "x": 595106.2778813974,
+        "y": 2426520.0008422537,
+        "name": "suzanne lenglen",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59132",
+        "x": 595186.5199295804,
+        "y": 2426475.760515,
+        "name": "henri farman",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59134",
+        "x": 594580.9705172316,
+        "y": 2425664.9628958786,
+        "name": "issy - val de seine",
+        "zipCode": "92130",
+        "city": "Issy-les-Moulineaux",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59136",
+        "x": 594431.9973550813,
+        "y": 2425064.2813165565,
+        "name": "jacques-henri lartigue",
+        "zipCode": "92130",
+        "city": "Issy-les-Moulineaux",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59708",
+        "x": 592979.6049712133,
+        "y": 2433191.3674081354,
+        "name": "faubourg de l'arche",
+        "zipCode": "92400",
+        "city": "Courbevoie",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59710",
+        "x": 592864.344666113,
+        "y": 2433775.012377837,
+        "name": "les fauvelles",
+        "zipCode": "92400",
+        "city": "Courbevoie",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59712",
+        "x": 592831.0230423216,
+        "y": 2434287.6792161963,
+        "name": "charlebourg",
+        "zipCode": "92250",
+        "city": "La Garenne-Colombes",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59714",
+        "x": 592460.7833843766,
+        "y": 2434756.2735831817,
+        "name": "jacqueline auriol",
+        "zipCode": "92700",
+        "city": "Colombes",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59716",
+        "x": 592246.2282278666,
+        "y": 2435117.4143327693,
+        "name": "victor basch",
+        "zipCode": "92700",
+        "city": "Colombes",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59718",
+        "x": 591853.6931236674,
+        "y": 2435565.161787436,
+        "name": "parc pierre lagravere",
+        "zipCode": "92700",
+        "city": "Colombes",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59720",
+        "x": 591324.571766794,
+        "y": 2436133.539859981,
+        "name": "pont de bezons",
+        "zipCode": "95870",
+        "city": "Bezons",
+        "elevator": false
+    }
+]

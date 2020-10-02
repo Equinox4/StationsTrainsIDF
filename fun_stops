@@ -1,0 +1,20 @@
+[
+    {
+        "id": "stop_area:0:SA:59206",
+        "x": 600447.9798405877,
+        "y": 2431821.984716985,
+        "name": "Funiculaire – Gare Basse",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59324",
+        "x": 600442.9833283104,
+        "y": 2431920.012427777,
+        "name": "Funiculaire – Gare Haute",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    }
+]

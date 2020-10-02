@@ -1,0 +1,335 @@
+[
+    {
+        "id": "stop_area:0:SA:59207",
+        "x": 595309.3196570817,
+        "y": 2428878.329543524,
+        "name": "la muette",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8775810",
+        "x": 604391.9279627617,
+        "y": 2427810.8537192745,
+        "name": "nation",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59232",
+        "x": 598039.0749753186,
+        "y": 2430076.9687247956,
+        "name": "franklin-roosevelt",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59253",
+        "x": 601299.6467192725,
+        "y": 2430095.6663337755,
+        "name": "strasbourg-saint-denis",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59338",
+        "x": 602259.7126754237,
+        "y": 2429641.092065364,
+        "name": "oberkampf",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59360",
+        "x": 594728.2189126104,
+        "y": 2427772.9616940534,
+        "name": "michel-ange-auteuil",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59371",
+        "x": 594538.6534749222,
+        "y": 2427428.3275408237,
+        "name": "michel-ange-molitor",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59442",
+        "x": 599355.1093297632,
+        "y": 2430567.2387361513,
+        "name": "havre-caumartin",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59463",
+        "x": 600216.575308634,
+        "y": 2430411.423446472,
+        "name": "richelieu-drouot",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59485",
+        "x": 595666.6189995359,
+        "y": 2429515.8287299634,
+        "name": "rue de la pompe (avenue georges mandel)",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59486",
+        "x": 604004.8234895789,
+        "y": 2428196.1122953757,
+        "name": "rue des boulets",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59464",
+        "x": 600492.1947931212,
+        "y": 2430332.5488551976,
+        "name": "grands boulevards",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59488",
+        "x": 602835.5685089777,
+        "y": 2429260.584829954,
+        "name": "saint-ambroise",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59489",
+        "x": 598804.7343586485,
+        "y": 2430704.747806223,
+        "name": "saint-augustin",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59490",
+        "x": 598096.1846134934,
+        "y": 2430514.7877889327,
+        "name": "saint-philippe du roule",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59491",
+        "x": 605445.3841300204,
+        "y": 2428363.6209748564,
+        "name": "porte de montreuil",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59492",
+        "x": 594110.5722126518,
+        "y": 2426627.865725683,
+        "name": "porte de saint-cloud",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59493",
+        "x": 595136.0240731417,
+        "y": 2428587.512640729,
+        "name": "ranelagh",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59494",
+        "x": 598411.8272850594,
+        "y": 2430628.1826233696,
+        "name": "miromesnil",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59495",
+        "x": 594964.9815819231,
+        "y": 2428207.0190326544,
+        "name": "jasmin",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59496",
+        "x": 594380.982751775,
+        "y": 2427128.1751131536,
+        "name": "exelmans",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59475",
+        "x": 600885.9985083175,
+        "y": 2430247.027227135,
+        "name": "bonne nouvelle",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59498",
+        "x": 604738.0349691926,
+        "y": 2428237.384093859,
+        "name": "buzenval",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59499",
+        "x": 603603.0139976075,
+        "y": 2428459.9972314923,
+        "name": "charonne",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59500",
+        "x": 597443.4129832425,
+        "y": 2429603.875998502,
+        "name": "alma-marceau",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59501",
+        "x": 605098.0300716232,
+        "y": 2428256.157627349,
+        "name": "maraîchers",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59504",
+        "x": 592779.6826785085,
+        "y": 2425967.3650437323,
+        "name": "billancourt",
+        "zipCode": "92100",
+        "city": "Boulogne-Billancourt",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59505",
+        "x": 593094.978785345,
+        "y": 2426231.1181689906,
+        "name": "marcel sembat",
+        "zipCode": "92100",
+        "city": "Boulogne-Billancourt",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59506",
+        "x": 607340.4860943939,
+        "y": 2428889.211161961,
+        "name": "croix-de-chavaux (jacques duclos)",
+        "zipCode": "93100",
+        "city": "Montreuil",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59507",
+        "x": 607719.0280165026,
+        "y": 2429334.5466010827,
+        "name": "mairie de montreuil",
+        "zipCode": "93100",
+        "city": "Montreuil",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59508",
+        "x": 606360.666838624,
+        "y": 2428597.9853124935,
+        "name": "robespierre",
+        "zipCode": "93100",
+        "city": "Montreuil",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59616",
+        "x": 603201.1623890235,
+        "y": 2428868.5571527164,
+        "name": "voltaire (léon blum)",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59617",
+        "x": 596472.4842988478,
+        "y": 2429459.1934739617,
+        "name": "trocadéro",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59557",
+        "x": 601954.6147734893,
+        "y": 2429896.2308558654,
+        "name": "république",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59619",
+        "x": 596910.6065217039,
+        "y": 2429601.4713377114,
+        "name": "iéna",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59568",
+        "x": 599815.8925367866,
+        "y": 2430477.741800457,
+        "name": "chaussée d'antin (la fayette)",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59621",
+        "x": 592197.936491939,
+        "y": 2425714.5561376777,
+        "name": "pont de sèvres",
+        "zipCode": "92100",
+        "city": "Boulogne-Billancourt",
+        "elevator": false
+    }
+]

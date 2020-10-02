@@ -1,0 +1,569 @@
+[
+    {
+        "id": "stop_area:0:SA:8711300",
+        "x": 601580.864994222,
+        "y": 2430886.40385613,
+        "name": "gare de l'est",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711320",
+        "x": 604718.0094603562,
+        "y": 2433206.492813352,
+        "name": "gare de pantin",
+        "zipCode": "93500",
+        "city": "Pantin",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8711321",
+        "x": 609080.5846040114,
+        "y": 2433107.744652899,
+        "name": "gare de noisy le sec",
+        "zipCode": "93130",
+        "city": "Noisy-le-Sec",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8711340",
+        "x": 610425.9089422205,
+        "y": 2432927.4129639682,
+        "name": "gare de bondy",
+        "zipCode": "93140",
+        "city": "Bondy",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8711347",
+        "x": 612844.3320524482,
+        "y": 2432358.2278402606,
+        "name": "gare du raincy villemomble",
+        "zipCode": "93340",
+        "city": "Le Raincy",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711351",
+        "x": 613886.9751734232,
+        "y": 2431628.5924435644,
+        "name": "gare de gagny",
+        "zipCode": "93220",
+        "city": "Gagny",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8711352",
+        "x": 615789.8017443372,
+        "y": 2430937.2595492136,
+        "name": "gare de chenay gagny",
+        "zipCode": "93220",
+        "city": "Gagny",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8711369",
+        "x": 610637.773184618,
+        "y": 2431619.0451306673,
+        "name": "gare de rosny bois perrier",
+        "zipCode": "93110",
+        "city": "Rosny-sous-Bois",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711370",
+        "x": 610949.9720647129,
+        "y": 2430285.4057718273,
+        "name": "gare de rosny sous bois",
+        "zipCode": "93110",
+        "city": "Rosny-sous-Bois",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8711371",
+        "x": 611085.7391161834,
+        "y": 2428339.823471597,
+        "name": "gare de val de fontenay",
+        "zipCode": "94120",
+        "city": "Fontenay-sous-Bois",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8711374",
+        "x": 611588.6333201204,
+        "y": 2426685.2838135357,
+        "name": "gare de nogent le perreux",
+        "zipCode": "94170",
+        "city": "Le Perreux-sur-Marne",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8711377",
+        "x": 612842.8188642259,
+        "y": 2425189.3041921556,
+        "name": "gare des boullereaux champigny",
+        "zipCode": "94500",
+        "city": "Champigny-sur-Marne",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8711379",
+        "x": 615194.7500614569,
+        "y": 2425052.0176917757,
+        "name": "gare de villiers sur marne plessis trevise",
+        "zipCode": "94350",
+        "city": "Villiers-sur-Marne",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8711380",
+        "x": 617907.9710707812,
+        "y": 2425034.845772348,
+        "name": "gare des yvris noisy le grand",
+        "zipCode": "93160",
+        "city": "Noisy-le-Grand",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711587",
+        "x": 670206.9940150265,
+        "y": 2394492.955083316,
+        "name": "gare de champbenoist poigny",
+        "zipCode": "77160",
+        "city": "Poigny",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711601",
+        "x": 628872.7663171442,
+        "y": 2416403.2120750365,
+        "name": "gare de gretz armainvilliers",
+        "zipCode": "77220",
+        "city": "Gretz-Armainvilliers",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711602",
+        "x": 625588.6488014888,
+        "y": 2419100.7137294943,
+        "name": "gare d'ozoir la ferriere",
+        "zipCode": "77330",
+        "city": "Ozoir-la-Ferrière",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8711603",
+        "x": 623023.5065639155,
+        "y": 2421910.523306896,
+        "name": "gare de roissy en brie",
+        "zipCode": "77680",
+        "city": "Roissy-en-Brie",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8711604",
+        "x": 620741.2207459686,
+        "y": 2423060.251280589,
+        "name": "gare d'emerainville pontault combault",
+        "zipCode": "77340",
+        "city": "Pontault-Combault",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8711607",
+        "x": 635986.9700883559,
+        "y": 2405248.054599774,
+        "name": "gare de verneuil l etang",
+        "zipCode": "77390",
+        "city": "Verneuil-l'Étang",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711608",
+        "x": 640739.9909069824,
+        "y": 2401804.04249829,
+        "name": "gare de mormant",
+        "zipCode": "77720",
+        "city": "Mormant",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711609",
+        "x": 649911.4963340125,
+        "y": 2396052.5172449443,
+        "name": "gare de nangis",
+        "zipCode": "77370",
+        "city": "Nangis",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711610",
+        "x": 639381.8672693268,
+        "y": 2439994.217430218,
+        "name": "gare de meaux",
+        "zipCode": "77100",
+        "city": "Meaux",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8711611",
+        "x": 618177.7273440689,
+        "y": 2430746.9879017137,
+        "name": "gare de chelles gournay",
+        "zipCode": "77500",
+        "city": "Chelles",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8711613",
+        "x": 667502.6413760227,
+        "y": 2390907.696423582,
+        "name": "gare de longueville",
+        "zipCode": "77650",
+        "city": "Longueville",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711616",
+        "x": 671347.6094576501,
+        "y": 2395674.741986061,
+        "name": "gare de provins",
+        "zipCode": "77160",
+        "city": "Provins",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711617",
+        "x": 667924.9717989131,
+        "y": 2392710.0137413866,
+        "name": "gare de ste colombe septveilles",
+        "zipCode": "77650",
+        "city": "Sainte-Colombe",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711621",
+        "x": 631115.0291400689,
+        "y": 2415689.1958601684,
+        "name": "gare de tournan",
+        "zipCode": "77220",
+        "city": "Tournan-en-Brie",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8711622",
+        "x": 639161.0038249562,
+        "y": 2415270.0483942595,
+        "name": "gare de marles en brie",
+        "zipCode": "77610",
+        "city": "La Houssaye-en-Brie",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711624",
+        "x": 641991.9893435915,
+        "y": 2421364.955408589,
+        "name": "gare de mortcerf",
+        "zipCode": "77163",
+        "city": "Mortcerf",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711626",
+        "x": 645440.0162776015,
+        "y": 2423730.0192994126,
+        "name": "gare de guerard la celle sur morin",
+        "zipCode": "77580",
+        "city": "Guérard",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711627",
+        "x": 648257.988853565,
+        "y": 2423549.010646886,
+        "name": "gare de faremoutiers pommeuse",
+        "zipCode": "77515",
+        "city": "Pommeuse",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711628",
+        "x": 651936.9843366633,
+        "y": 2424139.000351609,
+        "name": "gare de mouroux",
+        "zipCode": "77120",
+        "city": "Mouroux",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711629",
+        "x": 622206.4184539508,
+        "y": 2430861.304466592,
+        "name": "gare de vaires torcy",
+        "zipCode": "77360",
+        "city": "Vaires-sur-Marne",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8711630",
+        "x": 654804.72977674,
+        "y": 2423527.8013654766,
+        "name": "gare de coulommiers",
+        "zipCode": "77120",
+        "city": "Coulommiers",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711631",
+        "x": 626864.9409019478,
+        "y": 2431599.9878782355,
+        "name": "gare de lagny thorigny",
+        "zipCode": "77400",
+        "city": "Pomponne",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8711632",
+        "x": 634864.4149575547,
+        "y": 2433965.6278059375,
+        "name": "gare d'esbly",
+        "zipCode": "77450",
+        "city": "Esbly",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8711634",
+        "x": 659957.9972840109,
+        "y": 2424304.974342622,
+        "name": "gare de chailly boissy le chatel",
+        "zipCode": "77120",
+        "city": "Chailly-en-Brie",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711635",
+        "x": 661598.0210590634,
+        "y": 2423981.958312674,
+        "name": "gare de chauffry",
+        "zipCode": "77169",
+        "city": "Saint-Siméon",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711636",
+        "x": 664098.9940170352,
+        "y": 2422717.9877222753,
+        "name": "gare de st simeon",
+        "zipCode": "77169",
+        "city": "Saint-Siméon",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711637",
+        "x": 666863.993256058,
+        "y": 2422802.0453077005,
+        "name": "gare de st remy la vanne",
+        "zipCode": "77320",
+        "city": "Saint-Rémy-la-Vanne",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711639",
+        "x": 670660.0165671409,
+        "y": 2420905.9968248727,
+        "name": "gare de la ferte gaucher",
+        "zipCode": "77320",
+        "city": "La Ferté-Gaucher",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711640",
+        "x": 635965.3946341759,
+        "y": 2432627.4318244164,
+        "name": "gare de montry conde",
+        "zipCode": "77450",
+        "city": "Montry",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711649",
+        "x": 644873.012748922,
+        "y": 2440430.484134306,
+        "name": "gare de trilport",
+        "zipCode": "77470",
+        "city": "Trilport",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711650",
+        "x": 650421.3457547737,
+        "y": 2440307.6345688067,
+        "name": "gare de changis st jean",
+        "zipCode": "77660",
+        "city": "Changis-sur-Marne",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711651",
+        "x": 657765.2802307564,
+        "y": 2439444.786887695,
+        "name": "gare de la ferte sous jouarre",
+        "zipCode": "77260",
+        "city": "La Ferté-sous-Jouarre",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711655",
+        "x": 664717.3154929448,
+        "y": 2442104.6355481655,
+        "name": "gare de nanteuil saacy",
+        "zipCode": "77730",
+        "city": "Saâcy-sur-Marne",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711656",
+        "x": 672265.9644154524,
+        "y": 2441630.0354529014,
+        "name": "gare de nogent l artaud charly",
+        "zipCode": "02310",
+        "city": "Nogent-l'Artaud",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711657",
+        "x": 675261.9829223554,
+        "y": 2444237.0138132516,
+        "name": "gare de chezy sur marne",
+        "zipCode": "02570",
+        "city": "Chézy-sur-Marne",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711658",
+        "x": 678496.0327217262,
+        "y": 2449406.0501354258,
+        "name": "gare de chateau thierry",
+        "zipCode": "02400",
+        "city": "Château-Thierry",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711661",
+        "x": 649103.0161600568,
+        "y": 2444655.0523701254,
+        "name": "gare d'isles armentieres congis",
+        "zipCode": "77440",
+        "city": "Isles-les-Meldeuses",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711663",
+        "x": 650875.5281022525,
+        "y": 2447299.542342817,
+        "name": "gare de lizy sur ourcq",
+        "zipCode": "77440",
+        "city": "Lizy-sur-Ourcq",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711664",
+        "x": 653104.4754742788,
+        "y": 2455096.500483792,
+        "name": "gare de crouy sur ourcq",
+        "zipCode": "77840",
+        "city": "Crouy-sur-Ourcq",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711666",
+        "x": 653949.0200124003,
+        "y": 2459971.992463944,
+        "name": "gare de mareuil sur ourcq",
+        "zipCode": "60890",
+        "city": "Mareuil-sur-Ourcq",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711667",
+        "x": 657241.0105356317,
+        "y": 2464920.0034887735,
+        "name": "gare de la ferte milon",
+        "zipCode": "02460",
+        "city": "La Ferté-Milon",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711673",
+        "x": 637957.3469344956,
+        "y": 2431790.287076821,
+        "name": "gare de couilly st germain quincy",
+        "zipCode": "77860",
+        "city": "Saint-Germain-sur-Morin",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711674",
+        "x": 640192.980512123,
+        "y": 2429538.0497041815,
+        "name": "gare de villiers montbarbin",
+        "zipCode": "77580",
+        "city": "Crécy-la-Chapelle",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711677",
+        "x": 641764.1141900931,
+        "y": 2429151.626176935,
+        "name": "gare de crecy la chapelle",
+        "zipCode": "77580",
+        "city": "Crécy-la-Chapelle",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8743081",
+        "x": 671350.9914218553,
+        "y": 2420869.973484045,
+        "name": "la ferte gaucher centre",
+        "zipCode": "77320",
+        "city": "La Ferté-Gaucher",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8743088",
+        "x": 668922.0160696915,
+        "y": 2421772.05209533,
+        "name": "jouy sur morin monument",
+        "zipCode": "77320",
+        "city": "Jouy-sur-Morin",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8743090",
+        "x": 668397.0142839809,
+        "y": 2422611.015296781,
+        "name": "eustache lenoir",
+        "zipCode": "77320",
+        "city": "Jouy-sur-Morin",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8743091",
+        "x": 667619.0149877038,
+        "y": 2421868.047408415,
+        "name": "champgoulin",
+        "zipCode": "77320",
+        "city": "Jouy-sur-Morin",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8765479",
+        "x": 602694.8460335155,
+        "y": 2433083.7046559323,
+        "name": "gare de rosa parks",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    }
+]

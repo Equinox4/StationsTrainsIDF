@@ -1,0 +1,290 @@
+[
+    {
+        "id": "stop_area:0:SA:59220",
+        "x": 599186.2604651821,
+        "y": 2430818.505069291,
+        "name": "saint-lazare",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59259",
+        "x": 599031.9426449261,
+        "y": 2427257.882847387,
+        "name": "montparnasse-bienvenue",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59349",
+        "x": 598517.0118154581,
+        "y": 2427626.619556982,
+        "name": "duroc",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59421",
+        "x": 599338.3653449712,
+        "y": 2431672.8041471094,
+        "name": "place de clichy",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8739303",
+        "x": 598321.8190797295,
+        "y": 2429325.377523875,
+        "name": "invalides",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59494",
+        "x": 598411.8272850594,
+        "y": 2430628.1826233696,
+        "name": "miromesnil",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59524",
+        "x": 598365.3644252894,
+        "y": 2428110.7794987326,
+        "name": "saint-françois-xavier",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59526",
+        "x": 599519.8415419472,
+        "y": 2433254.258651914,
+        "name": "porte de saint-ouen",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59527",
+        "x": 597650.0336404176,
+        "y": 2425485.959220276,
+        "name": "porte de vanves",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59529",
+        "x": 598317.9705415274,
+        "y": 2426049.828737025,
+        "name": "plaisance",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59531",
+        "x": 598402.9738187845,
+        "y": 2428672.9968954404,
+        "name": "varenne",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59533",
+        "x": 599209.126942365,
+        "y": 2432098.870963855,
+        "name": "la fourche",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59535",
+        "x": 598735.8669977487,
+        "y": 2432531.575352005,
+        "name": "brochant",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59536",
+        "x": 597193.4361685946,
+        "y": 2424975.244557873,
+        "name": "malakoff-plateau de vanves",
+        "zipCode": "92240",
+        "city": "Malakoff",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59538",
+        "x": 597068.6661891271,
+        "y": 2424082.3098204643,
+        "name": "malakoff-rue etienne dolet",
+        "zipCode": "92240",
+        "city": "Malakoff",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59540",
+        "x": 602028.3968659037,
+        "y": 2438654.1785538206,
+        "name": "saint-denis-université",
+        "zipCode": "93210",
+        "city": "Saint-Denis",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59541",
+        "x": 601698.204686361,
+        "y": 2437632.4657806098,
+        "name": "basilique de saint-denis",
+        "zipCode": "93210",
+        "city": "Saint-Denis",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59542",
+        "x": 601469.5309048662,
+        "y": 2436853.156636756,
+        "name": "saint-denis - porte de paris",
+        "zipCode": "93210",
+        "city": "Saint-Denis",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59543",
+        "x": 599656.4352257091,
+        "y": 2434199.3800403746,
+        "name": "garibaldi",
+        "zipCode": "93400",
+        "city": "Saint-Ouen",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59544",
+        "x": 600520.6061204553,
+        "y": 2435715.238287068,
+        "name": "carrefour-pleyel",
+        "zipCode": "93210",
+        "city": "Saint-Denis",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59545",
+        "x": 599781.8956372238,
+        "y": 2434841.5191323766,
+        "name": "mairie de saint-ouen",
+        "zipCode": "93400",
+        "city": "Saint-Ouen",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711127",
+        "x": 598325.970023689,
+        "y": 2432886.1891345247,
+        "name": "porte de clichy",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59582",
+        "x": 596133.0275293846,
+        "y": 2436897.0465291077,
+        "name": "asnières-gennevilliers les courtilles",
+        "zipCode": "92600",
+        "city": "Asnières-sur-Seine",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59583",
+        "x": 597704.5319286516,
+        "y": 2433930.2360225827,
+        "name": "mairie de clichy",
+        "zipCode": "92110",
+        "city": "Clichy",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59597",
+        "x": 596272.4357890339,
+        "y": 2436054.2836593194,
+        "name": "les agnettes",
+        "zipCode": "92600",
+        "city": "Asnières-sur-Seine",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59604",
+        "x": 598598.5885794649,
+        "y": 2426135.4247048553,
+        "name": "pernety",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59606",
+        "x": 599346.3199304418,
+        "y": 2431313.2938039126,
+        "name": "liège",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59608",
+        "x": 599367.8474908755,
+        "y": 2432755.006264384,
+        "name": "guy-môquet",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59609",
+        "x": 598961.3964371404,
+        "y": 2426634.8114269716,
+        "name": "gaîté",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59592",
+        "x": 598329.4898738356,
+        "y": 2429936.2323826225,
+        "name": "champs-elysées-clémenceau",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59613",
+        "x": 596928.7532157794,
+        "y": 2435313.2623013286,
+        "name": "gabriel-péri",
+        "zipCode": "92600",
+        "city": "Asnières-sur-Seine",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59614",
+        "x": 597425.5332061301,
+        "y": 2423707.9601212814,
+        "name": "châtillon montrouge",
+        "zipCode": "92320",
+        "city": "Châtillon",
+        "elevator": false
+    }
+]

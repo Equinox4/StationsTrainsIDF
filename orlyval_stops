@@ -1,0 +1,29 @@
+[
+    {
+        "id": "stop_area:0:SA:59671",
+        "x": 597370.9895733257,
+        "y": 2417336.016399947,
+        "name": "Antony",
+        "zipCode": "92160",
+        "city": "Antony",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59673",
+        "x": 601696.982984717,
+        "y": 2414562.0055504697,
+        "name": "Orly 1-2-3",
+        "zipCode": "94390",
+        "city": "Paray-Vieille-Poste",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59675",
+        "x": 602418.0047101165,
+        "y": 2414491.0517947827,
+        "name": "Orly 4",
+        "zipCode": "94390",
+        "city": "Paray-Vieille-Poste",
+        "elevator": false
+    }
+]

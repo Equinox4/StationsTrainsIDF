@@ -1,0 +1,200 @@
+[
+    {
+        "id": "stop_area:0:SA:8754700",
+        "x": 602079.5250624691,
+        "y": 2427250.024922403,
+        "name": "gare d'austerlitz",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59214",
+        "x": 601607.6427862728,
+        "y": 2430926.022509966,
+        "name": "gare de l'est (verdun)",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59238",
+        "x": 602397.823315267,
+        "y": 2428305.0558357686,
+        "name": "bastille",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727100",
+        "x": 601459.4547719109,
+        "y": 2431262.349002038,
+        "name": "gare du nord",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59279",
+        "x": 602333.5863457234,
+        "y": 2431809.1804387374,
+        "name": "stalingrad",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59275",
+        "x": 601421.0974822423,
+        "y": 2425885.391790368,
+        "name": "place d'italie",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59335",
+        "x": 601796.563998367,
+        "y": 2426761.367493634,
+        "name": "saint-marcel",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59336",
+        "x": 602599.9685018674,
+        "y": 2429128.9586369363,
+        "name": "richard-lenoir",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59337",
+        "x": 603714.398790547,
+        "y": 2432046.1156325936,
+        "name": "ourcq",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59338",
+        "x": 602259.7126754237,
+        "y": 2429641.092065364,
+        "name": "oberkampf",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59339",
+        "x": 601604.98860031,
+        "y": 2426324.153711168,
+        "name": "campo-formio",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59340",
+        "x": 601775.0211121767,
+        "y": 2430288.2816002024,
+        "name": "jacques-bonsergent",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59342",
+        "x": 608241.1881880988,
+        "y": 2434316.0042920923,
+        "name": "bobigny-pablo-picasso",
+        "zipCode": "93000",
+        "city": "Bobigny",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59343",
+        "x": 606531.990910044,
+        "y": 2433016.1927961493,
+        "name": "bobigny-pantin (raymond queneau)",
+        "zipCode": "93000",
+        "city": "Bobigny",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59344",
+        "x": 605578.2265941626,
+        "y": 2432792.8829783467,
+        "name": "eglise de pantin",
+        "zipCode": "93500",
+        "city": "Pantin",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59345",
+        "x": 604867.4641530444,
+        "y": 2432575.381225307,
+        "name": "hoche",
+        "zipCode": "93500",
+        "city": "Pantin",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59551",
+        "x": 604103.0097168664,
+        "y": 2432256.006709267,
+        "name": "porte de pantin",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59633",
+        "x": 602257.4313408433,
+        "y": 2427539.825247589,
+        "name": "quai de la rapée",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59557",
+        "x": 601954.6147734893,
+        "y": 2429896.2308558654,
+        "name": "république",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59635",
+        "x": 602491.2183079713,
+        "y": 2431614.3016755404,
+        "name": "jaurès",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59636",
+        "x": 603169.029670486,
+        "y": 2431814.3555807834,
+        "name": "laumière",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59637",
+        "x": 602503.0138414532,
+        "y": 2428719.0102718957,
+        "name": "bréguet-sabin",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "id": "stop_area:0:SA:59296",
+        "x": 602152.5582774366,
+        "y": 2431395.747964615,
+        "name": "louis blanc",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59331",
+        "x": 604230.4254762304,
+        "y": 2431497.242289488,
+        "name": "danube",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59332",
+        "x": 603796.2970921347,
+        "y": 2431241.694005504,
+        "name": "botzaris",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59333",
+        "x": 603280.0133955783,
+        "y": 2430970.888617232,
+        "name": "buttes-chaumont",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59334",
+        "x": 602759.0220749733,
+        "y": 2431245.0088696927,
+        "name": "bolivar",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59645",
+        "x": 604568.9792902517,
+        "y": 2431274.626099148,
+        "name": "pré-saint-gervais",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59638",
+        "x": 604199.9132634808,
+        "y": 2430862.099522159,
+        "name": "place des fêtes",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59635",
+        "x": 602491.2183079713,
+        "y": 2431614.3016755404,
+        "name": "jaurès",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    }
+]

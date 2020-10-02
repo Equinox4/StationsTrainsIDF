@@ -1,0 +1,488 @@
+[
+    {
+        "id": "stop_area:0:SA:8738150",
+        "x": 553673.9103343433,
+        "y": 2443623.048904621,
+        "name": "gare de mantes-la-jolie",
+        "zipCode": "78200",
+        "city": "Mantes-la-Jolie",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738171",
+        "x": 565909.013239397,
+        "y": 2432853.944776624,
+        "name": "gare de mareil-sur-mauldre",
+        "zipCode": "78124",
+        "city": "Mareil-sur-Mauldre",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738172",
+        "x": 564849.478039975,
+        "y": 2434597.726172966,
+        "name": "gare de maule",
+        "zipCode": "78580",
+        "city": "Maule",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738173",
+        "x": 563673.6349042517,
+        "y": 2437944.496024112,
+        "name": "gare de nézel - aulnay",
+        "zipCode": "78410",
+        "city": "Nézel",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738676",
+        "x": 561315.5668664906,
+        "y": 2440643.663294591,
+        "name": "gare d'épône - mézières",
+        "zipCode": "78680",
+        "city": "Épône",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8739100",
+        "x": 598808.1285381438,
+        "y": 2427050.0833981466,
+        "name": "gare montparnasse",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8739110",
+        "x": 598487.541639927,
+        "y": 2426730.7196692294,
+        "name": "gare vaugirard",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8739153",
+        "x": 596730.3388721717,
+        "y": 2424545.6823895937,
+        "name": "gare de vanves - malakoff",
+        "zipCode": "92240",
+        "city": "Malakoff",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8739156",
+        "x": 595304.5115088368,
+        "y": 2423925.1645507705,
+        "name": "gare de clamart",
+        "zipCode": "92140",
+        "city": "Clamart",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8739300",
+        "x": 585230.3648806857,
+        "y": 2421945.6362266024,
+        "name": "gare de versailles chantiers",
+        "zipCode": "78000",
+        "city": "Versailles",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8739310",
+        "x": 592989.9945853696,
+        "y": 2424052.4800821203,
+        "name": "gare de meudon",
+        "zipCode": "92190",
+        "city": "Meudon",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8739311",
+        "x": 592139.366475186,
+        "y": 2424518.551456128,
+        "name": "gare de bellevue",
+        "zipCode": "92190",
+        "city": "Meudon",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8739312",
+        "x": 591113.0126351299,
+        "y": 2424855.3972585304,
+        "name": "gare de sèvres rive gauche",
+        "zipCode": "92310",
+        "city": "Sèvres",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8739320",
+        "x": 589100.7571355283,
+        "y": 2423041.7189177214,
+        "name": "gare de chaville rive gauche",
+        "zipCode": "92370",
+        "city": "Chaville",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8739321",
+        "x": 587797.4139428625,
+        "y": 2422618.537844049,
+        "name": "gare de viroflay rive gauche",
+        "zipCode": "78220",
+        "city": "Viroflay",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8739322",
+        "x": 580509.0127574693,
+        "y": 2422302.255010035,
+        "name": "gare de saint-cyr",
+        "zipCode": "78210",
+        "city": "Saint-Cyr-l'École",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8739325",
+        "x": 571066.2654439108,
+        "y": 2417514.9804693633,
+        "name": "gare de la verrière",
+        "zipCode": "78320",
+        "city": "La Verrière",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8739327",
+        "x": 569416.9385392165,
+        "y": 2416224.0958496286,
+        "name": "gare de coignières",
+        "zipCode": "78310",
+        "city": "Coignières",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8739328",
+        "x": 567109.6379468715,
+        "y": 2413743.7246826747,
+        "name": "gare des essarts-le-roi",
+        "zipCode": "78690",
+        "city": "Les Essarts-le-Roi",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8739329",
+        "x": 564650.585578149,
+        "y": 2410640.5373957995,
+        "name": "gare le perray",
+        "zipCode": "78610",
+        "city": "Le Perray-en-Yvelines",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8739331",
+        "x": 562762.9275559556,
+        "y": 2405114.2444049446,
+        "name": "gare de rambouillet",
+        "zipCode": "78120",
+        "city": "Rambouillet",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8739336",
+        "x": 566168.2252480616,
+        "y": 2429129.7601693086,
+        "name": "gare de beynes",
+        "zipCode": "78650",
+        "city": "Beynes",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8739340",
+        "x": 578222.3073786059,
+        "y": 2423268.9705960676,
+        "name": "gare de fontenay-le-fleury",
+        "zipCode": "78330",
+        "city": "Fontenay-le-Fleury",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8739341",
+        "x": 574677.0837192228,
+        "y": 2425072.8042386826,
+        "name": "gare de villepreux - les clayes",
+        "zipCode": "78340",
+        "city": "Les Clayes-sous-Bois",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8739342",
+        "x": 571167.5206679415,
+        "y": 2425975.077679837,
+        "name": "gare de plaisir - grignon",
+        "zipCode": "78370",
+        "city": "Plaisir",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8739343",
+        "x": 557983.7054652084,
+        "y": 2423722.063557519,
+        "name": "gare de garancières - la queue",
+        "zipCode": "78890",
+        "city": "Garancières",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8739344",
+        "x": 553445.4950058756,
+        "y": 2425542.733946001,
+        "name": "gare d'orgerus - béhoust",
+        "zipCode": "78910",
+        "city": "Orgerus",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8739345",
+        "x": 550971.0782422238,
+        "y": 2425904.942548118,
+        "name": "gare de tacoignières - richebourg",
+        "zipCode": "78910",
+        "city": "Tacoignières",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8739346",
+        "x": 546022.4739373396,
+        "y": 2422177.613376275,
+        "name": "gare de houdan",
+        "zipCode": "78550",
+        "city": "Houdan",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8739347",
+        "x": 539466.0310333836,
+        "y": 2419204.98135659,
+        "name": "gare de marchezais - broué",
+        "zipCode": "28410",
+        "city": "Broué",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8739348",
+        "x": 528914.9964639099,
+        "y": 2415183.0177843063,
+        "name": "gare de dreux",
+        "zipCode": "28100",
+        "city": "Dreux",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8739362",
+        "x": 572374.3617469174,
+        "y": 2425747.6360020908,
+        "name": "gare de plaisir - les clayes",
+        "zipCode": "78370",
+        "city": "Plaisir",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8739383",
+        "x": 575684.846280464,
+        "y": 2419670.5700274175,
+        "name": "gare de trappes",
+        "zipCode": "78190",
+        "city": "Trappes",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8739384",
+        "x": 578582.2030478856,
+        "y": 2421076.539269334,
+        "name": "gare de saint-quentin-en-yvelines - montigny-le-bretonneux",
+        "zipCode": "78180",
+        "city": "Montigny-le-Bretonneux",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8739388",
+        "x": 566168.7644837494,
+        "y": 2424141.450312102,
+        "name": "gare de villiers - neauphle - pontchartrain",
+        "zipCode": "78640",
+        "city": "Villiers-Saint-Frédéric",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8739389",
+        "x": 561682.5385076731,
+        "y": 2422799.9587866496,
+        "name": "gare de montfort-l'amaury - méré",
+        "zipCode": "78490",
+        "city": "Méré",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8741449",
+        "x": 574843.997661238,
+        "y": 2419866.9907701625,
+        "name": "yves farges",
+        "zipCode": "78190",
+        "city": "Trappes",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8741451",
+        "x": 583122.0004580963,
+        "y": 2422763.9760553758,
+        "name": "porte des matelots",
+        "zipCode": "78000",
+        "city": "Versailles",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8741452",
+        "x": 587229.9704867225,
+        "y": 2422536.7684032735,
+        "name": "pierre edouard",
+        "zipCode": "78220",
+        "city": "Viroflay",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8741453",
+        "x": 574535.7258055446,
+        "y": 2419813.714808622,
+        "name": "paul langevin",
+        "zipCode": "78190",
+        "city": "Trappes",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8741454",
+        "x": 574050.3471873989,
+        "y": 2419509.467313507,
+        "name": "pasteur",
+        "zipCode": "78190",
+        "city": "Trappes",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8741455",
+        "x": 571404.7329187706,
+        "y": 2418434.297513093,
+        "name": "maurepas les pyramides",
+        "zipCode": "78310",
+        "city": "Maurepas",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8741456",
+        "x": 572369.2514963796,
+        "y": 2418790.7467997177,
+        "name": "la petite villedieu",
+        "zipCode": "78990",
+        "city": "Élancourt",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8741457",
+        "x": 573058.7589609089,
+        "y": 2419213.722348351,
+        "name": "la passerelle",
+        "zipCode": "78990",
+        "city": "Élancourt",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8741458",
+        "x": 590088.0328626964,
+        "y": 2424727.453417395,
+        "name": "hopital jean rostand",
+        "zipCode": "92310",
+        "city": "Sèvres",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8741459",
+        "x": 577851.5130636788,
+        "y": 2420506.19562354,
+        "name": "groupe scolaire pasteur",
+        "zipCode": "78180",
+        "city": "Montigny-le-Bretonneux",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8741460",
+        "x": 588250.9733155834,
+        "y": 2422870.269098167,
+        "name": "grace de dieu",
+        "zipCode": "78220",
+        "city": "Viroflay",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8741461",
+        "x": 589410.0276783843,
+        "y": 2423885.400192815,
+        "name": "atrium",
+        "zipCode": "92370",
+        "city": "Chaville",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59514",
+        "x": 596437.6019029174,
+        "y": 2426042.022027455,
+        "name": "porte de versailles",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59477",
+        "x": 595718.8495028227,
+        "y": 2426435.6146488143,
+        "name": "balard",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59505",
+        "x": 593094.978785345,
+        "y": 2426231.1181689906,
+        "name": "marcel sembat",
+        "zipCode": "92100",
+        "city": "Boulogne-Billancourt",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8749577",
+        "x": 571639.0023931428,
+        "y": 2418749.0075743683,
+        "name": "franche comte",
+        "zipCode": "78990",
+        "city": "Élancourt",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8739316",
+        "x": 586518.0130335622,
+        "y": 2422174.67839127,
+        "name": "gare de porchefontaine",
+        "zipCode": "78000",
+        "city": "Versailles",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8739315",
+        "x": 584686.9191400541,
+        "y": 2422440.6128393966,
+        "name": "gare de versailles château rive gauche",
+        "zipCode": "78000",
+        "city": "Versailles",
+        "elevator": false
+    }
+]

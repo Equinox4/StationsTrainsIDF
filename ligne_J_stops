@@ -1,0 +1,524 @@
+[
+    {
+        "id": "stop_area:0:SA:8727613",
+        "x": 582329.5508858392,
+        "y": 2449892.570104902,
+        "name": "gare de pontoise",
+        "zipCode": "95300",
+        "city": "Pontoise",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727618",
+        "x": 594654.4199979072,
+        "y": 2441319.0922708614,
+        "name": "gare de sannois",
+        "zipCode": "95110",
+        "city": "Sannois",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8733798",
+        "x": 584740.1054244455,
+        "y": 2448430.159650345,
+        "name": "gare de saint-ouen-l'aumône liesse",
+        "zipCode": "95310",
+        "city": "Saint-Ouen-l'Aumône",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738107",
+        "x": 595241.0022256091,
+        "y": 2435074.6339066303,
+        "name": "gare de bois-colombes",
+        "zipCode": "92600",
+        "city": "Asnières-sur-Seine",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738108",
+        "x": 594327.6173765273,
+        "y": 2436170.6102518043,
+        "name": "gare de colombes",
+        "zipCode": "92700",
+        "city": "Colombes",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738109",
+        "x": 594452.8783417274,
+        "y": 2436945.837377537,
+        "name": "gare du stade",
+        "zipCode": "92700",
+        "city": "Colombes",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738113",
+        "x": 596089.4691159185,
+        "y": 2434220.0911869756,
+        "name": "gare d'asnières-sur-seine",
+        "zipCode": "92600",
+        "city": "Asnières-sur-Seine",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738114",
+        "x": 579581.301992573,
+        "y": 2451699.632814145,
+        "name": "gare d'osny",
+        "zipCode": "95520",
+        "city": "Osny",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738115",
+        "x": 577404.5744379541,
+        "y": 2453045.027065111,
+        "name": "gare de boissy-l'aillerie",
+        "zipCode": "95650",
+        "city": "Boissy-l'Aillerie",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738116",
+        "x": 575740.6569907177,
+        "y": 2453712.4341494003,
+        "name": "gare de montgeroult - courcelles",
+        "zipCode": "95650",
+        "city": "Montgeroult",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738117",
+        "x": 573253.9998064224,
+        "y": 2455806.950749071,
+        "name": "gare d'us",
+        "zipCode": "95450",
+        "city": "Us",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738118",
+        "x": 571722.0027711388,
+        "y": 2458458.045334726,
+        "name": "gare de santeuil - le perchay",
+        "zipCode": "95640",
+        "city": "Santeuil",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738119",
+        "x": 570820.0310492639,
+        "y": 2462867.9679593532,
+        "name": "gare de chars",
+        "zipCode": "95750",
+        "city": "Chars",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738120",
+        "x": 569658.0264716031,
+        "y": 2467265.9922887064,
+        "name": "gare de lavilletertre",
+        "zipCode": "60240",
+        "city": "Lavilletertre",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738121",
+        "x": 568575.0352341265,
+        "y": 2469267.044914003,
+        "name": "gare de liancourt-saint-pierre",
+        "zipCode": "60240",
+        "city": "Liancourt-Saint-Pierre",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738122",
+        "x": 566142.9998169314,
+        "y": 2473846.016011159,
+        "name": "gare de chaumont-en-vexin",
+        "zipCode": "60240",
+        "city": "Chaumont-en-Vexin",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738123",
+        "x": 562253.0228466229,
+        "y": 2476222.012622726,
+        "name": "gare de trie-château",
+        "zipCode": "60590",
+        "city": "Trie-Château",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738124",
+        "x": 559846.973467041,
+        "y": 2476540.9538947144,
+        "name": "gare de gisors",
+        "zipCode": "27140",
+        "city": "Gisors",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738141",
+        "x": 582014.7162097504,
+        "y": 2446677.01254091,
+        "name": "gare d'éragny - neuville",
+        "zipCode": "95610",
+        "city": "Éragny",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738142",
+        "x": 583019.6910741061,
+        "y": 2449160.3464727323,
+        "name": "gare de saint-ouen-l'aumône quartier de l'église",
+        "zipCode": "95310",
+        "city": "Saint-Ouen-l'Aumône",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738145",
+        "x": 580832.590581646,
+        "y": 2443459.0409315745,
+        "name": "gare de conflans fin d'oise",
+        "zipCode": "78700",
+        "city": "Conflans-Sainte-Honorine",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738147",
+        "x": 577471.8197248619,
+        "y": 2441464.2220541784,
+        "name": "gare de chanteloup-les-vignes",
+        "zipCode": "78570",
+        "city": "Chanteloup-les-Vignes",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738148",
+        "x": 579782.2037576716,
+        "y": 2443398.770208035,
+        "name": "gare de maurecourt",
+        "zipCode": "78570",
+        "city": "Andrésy",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738149",
+        "x": 579005.6062967484,
+        "y": 2441912.0910377363,
+        "name": "gare d'andrésy",
+        "zipCode": "78570",
+        "city": "Andrésy",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738150",
+        "x": 553673.9103343433,
+        "y": 2443623.048904621,
+        "name": "gare de mantes-la-jolie",
+        "zipCode": "78200",
+        "city": "Mantes-la-Jolie",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738155",
+        "x": 564054.9756245987,
+        "y": 2443921.995958822,
+        "name": "gare de juziers",
+        "zipCode": "78820",
+        "city": "Juziers",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738156",
+        "x": 561514.97291578,
+        "y": 2443023.3786807256,
+        "name": "gare de gargenville",
+        "zipCode": "78440",
+        "city": "Gargenville",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738157",
+        "x": 559611.6428838832,
+        "y": 2442462.0049262666,
+        "name": "gare d'issou - porcheville",
+        "zipCode": "78440",
+        "city": "Issou",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738158",
+        "x": 556828.0316055239,
+        "y": 2443040.308141452,
+        "name": "gare de limay",
+        "zipCode": "78520",
+        "city": "Limay",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738159",
+        "x": 554534.5661659085,
+        "y": 2442964.288290771,
+        "name": "gare de mantes station",
+        "zipCode": "78200",
+        "city": "Mantes-la-Jolie",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738179",
+        "x": 592266.3432711692,
+        "y": 2439146.0450929003,
+        "name": "gare de val d'argenteuil",
+        "zipCode": "95100",
+        "city": "Argenteuil",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738180",
+        "x": 575771.4923029756,
+        "y": 2442582.702822045,
+        "name": "gare de triel-sur-seine",
+        "zipCode": "78510",
+        "city": "Triel-sur-Seine",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738181",
+        "x": 572710.14089164,
+        "y": 2445439.4231163934,
+        "name": "gare de vaux-sur-seine",
+        "zipCode": "78740",
+        "city": "Vaux-sur-Seine",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738182",
+        "x": 569488.7753957099,
+        "y": 2445482.4527701363,
+        "name": "gare de thun le paradis",
+        "zipCode": "78250",
+        "city": "Meulan-en-Yvelines",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738183",
+        "x": 568111.8080221532,
+        "y": 2445329.5747770267,
+        "name": "gare de meulan - hardricourt",
+        "zipCode": "78250",
+        "city": "Hardricourt",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738184",
+        "x": 594193.954820838,
+        "y": 2438703.4461519537,
+        "name": "gare d'argenteuil",
+        "zipCode": "95100",
+        "city": "Argenteuil",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738186",
+        "x": 589579.7878339133,
+        "y": 2441142.4807709698,
+        "name": "gare de cormeilles-en-parisis",
+        "zipCode": "95240",
+        "city": "Cormeilles-en-Parisis",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738187",
+        "x": 588674.2195157621,
+        "y": 2442456.384400761,
+        "name": "gare de la frette - montigny",
+        "zipCode": "95530",
+        "city": "La Frette-sur-Seine",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738188",
+        "x": 587161.460486866,
+        "y": 2443663.3866274664,
+        "name": "gare de herblay",
+        "zipCode": "95220",
+        "city": "Herblay",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738189",
+        "x": 582593.1285722391,
+        "y": 2444399.4191701426,
+        "name": "gare de conflans sainte-honorine",
+        "zipCode": "78700",
+        "city": "Conflans-Sainte-Honorine",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738400",
+        "x": 599148.8982043851,
+        "y": 2430788.134599064,
+        "name": "gare saint-lazare",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738640",
+        "x": 588924.2168593906,
+        "y": 2435747.4426921187,
+        "name": "gare de houilles - carrières-sur-seine",
+        "zipCode": "78800",
+        "city": "Houilles",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738641",
+        "x": 586910.3707897906,
+        "y": 2437733.2399358316,
+        "name": "gare de sartrouville",
+        "zipCode": "78500",
+        "city": "Sartrouville",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738642",
+        "x": 585897.2250132383,
+        "y": 2438636.631054265,
+        "name": "gare de maisons-laffitte",
+        "zipCode": "78600",
+        "city": "Maisons-Laffitte",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738657",
+        "x": 578322.2585004659,
+        "y": 2437260.3895062488,
+        "name": "gare de poissy",
+        "zipCode": "78300",
+        "city": "Poissy",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738664",
+        "x": 575283.5194772324,
+        "y": 2437980.470849416,
+        "name": "gare de villennes-sur-seine",
+        "zipCode": "78670",
+        "city": "Villennes-sur-Seine",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738665",
+        "x": 574064.7079066285,
+        "y": 2442579.361282893,
+        "name": "gare de vernouillet - verneuil",
+        "zipCode": "78480",
+        "city": "Verneuil-sur-Seine",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738666",
+        "x": 572073.7792194915,
+        "y": 2443853.277859166,
+        "name": "gare des clairières de verneuil",
+        "zipCode": "78480",
+        "city": "Verneuil-sur-Seine",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738668",
+        "x": 568982.1464168471,
+        "y": 2443946.478482472,
+        "name": "gare des mureaux",
+        "zipCode": "78130",
+        "city": "Les Mureaux",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738673",
+        "x": 564247.8281359891,
+        "y": 2441631.8694499154,
+        "name": "gare d'aubergenville élisabethville",
+        "zipCode": "78410",
+        "city": "Aubergenville",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738676",
+        "x": 561315.5668664906,
+        "y": 2440643.663294591,
+        "name": "gare d'épône - mézières",
+        "zipCode": "78680",
+        "city": "Épône",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8741069",
+        "x": 568552.0289664381,
+        "y": 2445236.0078941686,
+        "name": "meulan place du vexin",
+        "zipCode": "78250",
+        "city": "Meulan-en-Yvelines",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8741071",
+        "x": 568739.9898432567,
+        "y": 2445226.9696284216,
+        "name": "meulan arquebuse",
+        "zipCode": "78250",
+        "city": "Meulan-en-Yvelines",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8741085",
+        "x": 561555.0001766422,
+        "y": 2443455.993792643,
+        "name": "gargenville mairie",
+        "zipCode": "78440",
+        "city": "Gargenville",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8741560",
+        "x": 537318.264321903,
+        "y": 2455103.539415667,
+        "name": "gare de vernon - giverny",
+        "zipCode": "27200",
+        "city": "Vernon",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8741588",
+        "x": 548310.3725506461,
+        "y": 2444559.3709583734,
+        "name": "gare de rosny-sur-seine",
+        "zipCode": "78710",
+        "city": "Rosny-sur-Seine",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8741589",
+        "x": 544671.1603035119,
+        "y": 2449221.6558881844,
+        "name": "gare de bonnières",
+        "zipCode": "78270",
+        "city": "Bonnières-sur-Seine",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727605",
+        "x": 595231.1193348534,
+        "y": 2442448.380371851,
+        "name": "gare d'ermont - eaubonne",
+        "zipCode": "95120",
+        "city": "Ermont",
+        "elevator": true
+    }
+]

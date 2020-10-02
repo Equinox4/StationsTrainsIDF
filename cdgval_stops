@@ -1,0 +1,47 @@
+[
+    {
+        "id": "stop_area:0:SA:59677",
+        "x": 615247.4987391161,
+        "y": 2445670.0357144144,
+        "name": "Parc PR",
+        "zipCode": "95700",
+        "city": "Roissy-en-France",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59679",
+        "x": 616430.0229048887,
+        "y": 2445786.007405843,
+        "name": "Terminal 3",
+        "zipCode": "93290",
+        "city": "Tremblay-en-France",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59681",
+        "x": 617137.5120649494,
+        "y": 2445795.5202689003,
+        "name": "Parc PX",
+        "zipCode": "77990",
+        "city": "Le Mesnil-Amelot",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59683",
+        "x": 617370.0103749653,
+        "y": 2445259.5068910494,
+        "name": "Terminal 2 – Gare",
+        "zipCode": "77990",
+        "city": "Le Mesnil-Amelot",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59685",
+        "x": 615032.7318085168,
+        "y": 2446253.699322692,
+        "name": "Terminal 1",
+        "zipCode": "77990",
+        "city": "Mauregard",
+        "elevator": false
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "id": "stop_area:0:SA:59809",
+        "x": 602267.9229495535,
+        "y": 2421045.8563372227,
+        "name": "villejuif - louis aragon",
+        "zipCode": "94800",
+        "city": "Villejuif",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59811",
+        "x": 602103.0167091946,
+        "y": 2420437.2026943,
+        "name": "lamartine",
+        "zipCode": "94800",
+        "city": "Villejuif",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59813",
+        "x": 602263.9655366421,
+        "y": 2420051.3019907656,
+        "name": "domaine cherioux",
+        "zipCode": "94550",
+        "city": "Chevilly-Larue",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59815",
+        "x": 602385.5812201664,
+        "y": 2419332.837249506,
+        "name": "moulin vert",
+        "zipCode": "94550",
+        "city": "Chevilly-Larue",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59817",
+        "x": 602285.2196913953,
+        "y": 2418898.220628068,
+        "name": "bretagne",
+        "zipCode": "94550",
+        "city": "Chevilly-Larue",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59819",
+        "x": 602279.9841181294,
+        "y": 2418360.9515187102,
+        "name": "auguste perret (cimetiere parisien)",
+        "zipCode": "94550",
+        "city": "Chevilly-Larue",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59821",
+        "x": 602203.1466280154,
+        "y": 2417898.4226741493,
+        "name": "porte de thiais (marche international)",
+        "zipCode": "94550",
+        "city": "Chevilly-Larue",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59823",
+        "x": 602362.637396392,
+        "y": 2417488.72193232,
+        "name": "la belle epine",
+        "zipCode": "94150",
+        "city": "Rungis",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59825",
+        "x": 601865.0089467332,
+        "y": 2417162.44917569,
+        "name": "place de la logistique (plateforme sogaris)",
+        "zipCode": "94150",
+        "city": "Rungis",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59827",
+        "x": 601355.9993576448,
+        "y": 2417140.617054838,
+        "name": "porte de rungis",
+        "zipCode": "94150",
+        "city": "Rungis",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59829",
+        "x": 601306.0269822554,
+        "y": 2416891.9462000346,
+        "name": "saarinen (parc silic nord)",
+        "zipCode": "94150",
+        "city": "Rungis",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59831",
+        "x": 601300.0162408896,
+        "y": 2416447.696009089,
+        "name": "robert schuman (parc silic centre)",
+        "zipCode": "94150",
+        "city": "Rungis",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59833",
+        "x": 601213.0134871005,
+        "y": 2415887.946313714,
+        "name": "la fraternelle",
+        "zipCode": "94150",
+        "city": "Rungis",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59835",
+        "x": 601707.0080256009,
+        "y": 2415796.502418778,
+        "name": "helene boucher (orlytech)",
+        "zipCode": "94390",
+        "city": "Paray-Vieille-Poste",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59837",
+        "x": 602447.6787906995,
+        "y": 2415527.966580952,
+        "name": "caroline aigle (orlyfret)",
+        "zipCode": "94310",
+        "city": "Orly",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59839",
+        "x": 602540.5211642879,
+        "y": 2415075.305605503,
+        "name": "coeur d'orly",
+        "zipCode": "94310",
+        "city": "Orly",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59841",
+        "x": 602349.6858532774,
+        "y": 2414532.7450105743,
+        "name": "aeroport d'orly",
+        "zipCode": "94390",
+        "city": "Paray-Vieille-Poste",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59844",
+        "x": 602599.789762437,
+        "y": 2412842.558121159,
+        "name": "porte de l'essonne",
+        "zipCode": "91200",
+        "city": "Athis-Mons",
+        "elevator": false
+    }
+]

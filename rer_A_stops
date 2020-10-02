@@ -1,0 +1,434 @@
+[
+    {
+        "id": "stop_area:0:SA:8733448",
+        "x": 581191.5775337614,
+        "y": 2446316.3171685985,
+        "name": "Neuville – Université",
+        "zipCode": "95000",
+        "city": "Neuville-sur-Oise",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738145",
+        "x": 580832.590581646,
+        "y": 2443459.0409315745,
+        "name": "Conflans-Fin-d'Oise",
+        "zipCode": "78700",
+        "city": "Conflans-Sainte-Honorine",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738165",
+        "x": 580997.8159831698,
+        "y": 2441337.7468046634,
+        "name": "Achères – Ville",
+        "zipCode": "78260",
+        "city": "Achères",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738190",
+        "x": 581282.0233635325,
+        "y": 2448707.489155128,
+        "name": "Cergy – Préfecture",
+        "zipCode": "95800",
+        "city": "Cergy",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738249",
+        "x": 577909.4932769237,
+        "y": 2450237.411527169,
+        "name": "Cergy – Saint-Christophe",
+        "zipCode": "95800",
+        "city": "Cergy",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738265",
+        "x": 576161.353818476,
+        "y": 2449996.9121929174,
+        "name": "Cergy-le-Haut",
+        "zipCode": "95800",
+        "city": "Cergy",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738605",
+        "x": 582074.006326144,
+        "y": 2439691.506374717,
+        "name": "Achères – Grand-Cormier",
+        "zipCode": "78100",
+        "city": "Saint-Germain-en-Laye",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738640",
+        "x": 588924.2168593906,
+        "y": 2435747.4426921187,
+        "name": "Houilles – Carrières-sur-Seine",
+        "zipCode": "78800",
+        "city": "Houilles",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738641",
+        "x": 586910.3707897906,
+        "y": 2437733.2399358316,
+        "name": "Sartrouville",
+        "zipCode": "78500",
+        "city": "Sartrouville",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738642",
+        "x": 585897.2250132383,
+        "y": 2438636.631054265,
+        "name": "Maisons-Laffitte",
+        "zipCode": "78600",
+        "city": "Maisons-Laffitte",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738657",
+        "x": 578322.2585004659,
+        "y": 2437260.3895062488,
+        "name": "Poissy",
+        "zipCode": "78300",
+        "city": "Poissy",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738668",
+        "x": 568982.5065435991,
+        "y": 2443945.363730835,
+        "name": "Les Mureaux",
+        "zipCode": "78130",
+        "city": "Les Mureaux",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8773006",
+        "x": 632093.3243343846,
+        "y": 2428637.633306888,
+        "name": "Val d'Europe",
+        "zipCode": "77700",
+        "city": "Serris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775498",
+        "x": 627415.9994085574,
+        "y": 2426551.0091921054,
+        "name": "Bussy-Saint-Georges",
+        "zipCode": "77600",
+        "city": "Bussy-Saint-Georges",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775499",
+        "x": 632834.6502390305,
+        "y": 2430220.478203984,
+        "name": "Marne-la-Vallée – Chessy",
+        "zipCode": "77700",
+        "city": "Chessy",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775800",
+        "x": 596988.8352706808,
+        "y": 2430658.1381954355,
+        "name": "Charles-de-Gaulle – Étoile",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738221",
+        "x": 592866.1041352616,
+        "y": 2432597.2147585447,
+        "name": "La Défense – Grande Arche",
+        "zipCode": "92400",
+        "city": "Courbevoie",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775802",
+        "x": 591610.1172231431,
+        "y": 2433087.726246682,
+        "name": "Nanterre – Préfecture",
+        "zipCode": "92000",
+        "city": "Nanterre",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738631",
+        "x": 591027.4269459811,
+        "y": 2433634.7242861036,
+        "name": "Nanterre – Université",
+        "zipCode": "92000",
+        "city": "Nanterre",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775804",
+        "x": 589602.9533005577,
+        "y": 2432985.6421684963,
+        "name": "Nanterre – Ville",
+        "zipCode": "92000",
+        "city": "Nanterre",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775805",
+        "x": 587935.183144345,
+        "y": 2432112.544800269,
+        "name": "Rueil-Malmaison",
+        "zipCode": "92500",
+        "city": "Rueil-Malmaison",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775806",
+        "x": 586782.9909250678,
+        "y": 2431915.0186484605,
+        "name": "Chatou – Croissy",
+        "zipCode": "78400",
+        "city": "Chatou",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775807",
+        "x": 585189.992238473,
+        "y": 2432433.6378732272,
+        "name": "Vésinet – Centre",
+        "zipCode": "78110",
+        "city": "Le Vésinet",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775808",
+        "x": 584219.5404724776,
+        "y": 2433338.7344038663,
+        "name": "Vésinet – Le Pecq",
+        "zipCode": "78110",
+        "city": "Le Vésinet",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775809",
+        "x": 582306.3416506995,
+        "y": 2433369.2306487495,
+        "name": "Saint-Germain-en-Laye",
+        "zipCode": "78100",
+        "city": "Saint-Germain-en-Laye",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775810",
+        "x": 604391.9279627617,
+        "y": 2427810.8537192745,
+        "name": "Nation",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775811",
+        "x": 607079.9026855541,
+        "y": 2427639.702366682,
+        "name": "Vincennes",
+        "zipCode": "94300",
+        "city": "Vincennes",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775812",
+        "x": 609378.0340199544,
+        "y": 2427276.448071118,
+        "name": "Fontenay-sous-Bois",
+        "zipCode": "94120",
+        "city": "Fontenay-sous-Bois",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775813",
+        "x": 609933.8919542329,
+        "y": 2426334.0671141883,
+        "name": "Nogent-sur-Marne",
+        "zipCode": "94130",
+        "city": "Nogent-sur-Marne",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775814",
+        "x": 609379.8820736832,
+        "y": 2424722.1533824215,
+        "name": "Joinville-le-Pont",
+        "zipCode": "94340",
+        "city": "Joinville-le-Pont",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775815",
+        "x": 609981.99478448,
+        "y": 2423133.100453244,
+        "name": "Saint-Maur – Créteil",
+        "zipCode": "94100",
+        "city": "Saint-Maur-des-Fossés",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775816",
+        "x": 610979.2150180734,
+        "y": 2422934.294755063,
+        "name": "Le Parc de Saint-Maur",
+        "zipCode": "94100",
+        "city": "Saint-Maur-des-Fossés",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775817",
+        "x": 612767.9887929125,
+        "y": 2423205.540210948,
+        "name": "Champigny",
+        "zipCode": "94100",
+        "city": "Saint-Maur-des-Fossés",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775818",
+        "x": 613019.4274450059,
+        "y": 2421785.842641932,
+        "name": "La Varenne – Chennevières",
+        "zipCode": "94100",
+        "city": "Saint-Maur-des-Fossés",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775819",
+        "x": 612552.0216115806,
+        "y": 2419251.863414034,
+        "name": "Sucy – Bonneuil",
+        "zipCode": "94370",
+        "city": "Sucy-en-Brie",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775820",
+        "x": 612454.0156531787,
+        "y": 2417251.2263505855,
+        "name": "Boissy-Saint-Léger",
+        "zipCode": "94470",
+        "city": "Boissy-Saint-Léger",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8711371",
+        "x": 611085.7391161834,
+        "y": 2428339.823471597,
+        "name": "Val de Fontenay",
+        "zipCode": "94120",
+        "city": "Fontenay-sous-Bois",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775831",
+        "x": 613018.7394460981,
+        "y": 2428342.3954527383,
+        "name": "Neuilly-Plaisance",
+        "zipCode": "93360",
+        "city": "Neuilly-Plaisance",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775832",
+        "x": 613922.3144580811,
+        "y": 2427334.9787010527,
+        "name": "Bry-sur-Marne",
+        "zipCode": "94360",
+        "city": "Bry-sur-Marne",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775833",
+        "x": 615887.38022557,
+        "y": 2426962.6212425544,
+        "name": "Noisy-le-grand – Mont d'Est",
+        "zipCode": "93160",
+        "city": "Noisy-le-Grand",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775834",
+        "x": 617975.8845225866,
+        "y": 2427202.607776503,
+        "name": "Noisy – Champs",
+        "zipCode": "77420",
+        "city": "Champs-sur-Marne",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775835",
+        "x": 620522.7191661642,
+        "y": 2427289.853064444,
+        "name": "Noisiel",
+        "zipCode": "77186",
+        "city": "Noisiel",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775836",
+        "x": 621827.5772654978,
+        "y": 2426788.8127757786,
+        "name": "Lognes",
+        "zipCode": "77185",
+        "city": "Lognes",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775837",
+        "x": 623364.2580551133,
+        "y": 2426779.4585153703,
+        "name": "Torcy",
+        "zipCode": "77200",
+        "city": "Torcy",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8768600",
+        "x": 602651.6160358166,
+        "y": 2427415.928095017,
+        "name": "Lyon",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775859",
+        "x": 599624.243872785,
+        "y": 2430398.75271783,
+        "name": "Auber",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775860",
+        "x": 600769.9980888247,
+        "y": 2429276.982973776,
+        "name": "Châtelet – Les Halles",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8798751",
+        "x": 569104.9697064119,
+        "y": 2442179.024561619,
+        "name": "Les Mureaux – Les Sablons",
+        "zipCode": "78130",
+        "city": "Les Mureaux",
+        "elevator": false
+    }
+]

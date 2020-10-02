@@ -1,0 +1,110 @@
+[
+    {
+        "id": "stop_area:0:SA:8738221",
+        "x": 592866.1041352616,
+        "y": 2432597.2147585447,
+        "name": "gare de la défense (grande arche)",
+        "zipCode": "92400",
+        "city": "Courbevoie",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738233",
+        "x": 589068.2340438564,
+        "y": 2423716.5871166354,
+        "name": "gare de chaville rive droite",
+        "zipCode": "92370",
+        "city": "Chaville",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738234",
+        "x": 590004.8491499764,
+        "y": 2425352.677005237,
+        "name": "gare de sèvres - ville-d'avray",
+        "zipCode": "92310",
+        "city": "Sèvres",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738235",
+        "x": 591275.2771656895,
+        "y": 2427443.6066358224,
+        "name": "gare de saint-cloud",
+        "zipCode": "92210",
+        "city": "Saint-Cloud",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738236",
+        "x": 591050.2101419774,
+        "y": 2428866.602610226,
+        "name": "gare de le val d'or",
+        "zipCode": "92210",
+        "city": "Saint-Cloud",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738237",
+        "x": 591639.2918228299,
+        "y": 2430354.9154606024,
+        "name": "gare de suresnes mont-valérien",
+        "zipCode": "92150",
+        "city": "Suresnes",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738238",
+        "x": 592444.6464365202,
+        "y": 2431698.0312541784,
+        "name": "gare de puteaux",
+        "zipCode": "92800",
+        "city": "Puteaux",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8739300",
+        "x": 585230.3648806857,
+        "y": 2421945.6362266024,
+        "name": "gare de versailles chantiers",
+        "zipCode": "78000",
+        "city": "Versailles",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8739322",
+        "x": 580509.0127574693,
+        "y": 2422302.255010035,
+        "name": "gare de saint-cyr",
+        "zipCode": "78210",
+        "city": "Saint-Cyr-l'École",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8739325",
+        "x": 571066.2654439108,
+        "y": 2417514.9804693633,
+        "name": "gare de la verrière",
+        "zipCode": "78320",
+        "city": "La Verrière",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8739383",
+        "x": 575684.846280464,
+        "y": 2419670.5700274175,
+        "name": "gare de trappes",
+        "zipCode": "78190",
+        "city": "Trappes",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8739384",
+        "x": 578582.2030478856,
+        "y": 2421076.539269334,
+        "name": "gare de saint-quentin-en-yvelines - montigny-le-bretonneux",
+        "zipCode": "78180",
+        "city": "Montigny-le-Bretonneux",
+        "elevator": false
+    }
+]

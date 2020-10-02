@@ -1,0 +1,344 @@
+[
+    {
+        "id": "stop_area:0:SA:59209",
+        "x": 599697.852000957,
+        "y": 2430216.1572514647,
+        "name": "opéra",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59214",
+        "x": 601607.6427862728,
+        "y": 2430926.022509966,
+        "name": "gare de l'est (verdun)",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59275",
+        "x": 601421.0974822423,
+        "y": 2425885.391790368,
+        "name": "place d'italie",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59277",
+        "x": 601149.6453432001,
+        "y": 2427204.3774206396,
+        "name": "place monge (jardin des plantes)",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59279",
+        "x": 602333.5863457234,
+        "y": 2431809.1804387374,
+        "name": "stalingrad",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59281",
+        "x": 601823.7100835328,
+        "y": 2428053.390015503,
+        "name": "sully-morland",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59283",
+        "x": 601509.0287666778,
+        "y": 2425287.4806940183,
+        "name": "tolbiac",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59285",
+        "x": 602653.0287994429,
+        "y": 2432267.5221214597,
+        "name": "riquet",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59287",
+        "x": 602537.4884268158,
+        "y": 2424868.145114415,
+        "name": "porte d'ivry",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59288",
+        "x": 603618.4840216285,
+        "y": 2433248.547499978,
+        "name": "porte de la villette",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59290",
+        "x": 599877.9674818987,
+        "y": 2429827.0462753363,
+        "name": "pyramides",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59292",
+        "x": 600270.3650276295,
+        "y": 2430727.315063338,
+        "name": "le peletier",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59294",
+        "x": 601122.6800909311,
+        "y": 2426479.5922991354,
+        "name": "les gobelins",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59296",
+        "x": 602152.5582774366,
+        "y": 2431395.747964615,
+        "name": "louis blanc",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59298",
+        "x": 601575.0281394906,
+        "y": 2424900.3004516163,
+        "name": "maison blanche",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59300",
+        "x": 601333.8523828756,
+        "y": 2427446.3062098986,
+        "name": "jussieu",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59302",
+        "x": 603270.7470079022,
+        "y": 2432847.437083502,
+        "name": "corentin-cariou",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59304",
+        "x": 600498.6144928474,
+        "y": 2430846.162520585,
+        "name": "cadet",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59306",
+        "x": 601123.9916490716,
+        "y": 2426932.9968835274,
+        "name": "censier-daubenton",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59316",
+        "x": 604947.0224913225,
+        "y": 2435141.2402301757,
+        "name": "fort d'aubervilliers",
+        "zipCode": "93300",
+        "city": "Aubervilliers",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59318",
+        "x": 604089.2870336411,
+        "y": 2433935.841812198,
+        "name": "aubervilliers pantin (4 chemins)",
+        "zipCode": "93300",
+        "city": "Aubervilliers",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59320",
+        "x": 605441.9213826689,
+        "y": 2435839.2463012203,
+        "name": "la courneuve-8-mai-1945",
+        "zipCode": "93120",
+        "city": "La Courneuve",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59322",
+        "x": 603551.3469328614,
+        "y": 2423691.1743134223,
+        "name": "mairie d'ivry",
+        "zipCode": "94200",
+        "city": "Ivry-sur-Seine",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59323",
+        "x": 602250.035349148,
+        "y": 2420912.003367179,
+        "name": "villejuif-louis aragon",
+        "zipCode": "94800",
+        "city": "Villejuif",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59556",
+        "x": 602972.6514755688,
+        "y": 2424136.0148015306,
+        "name": "pierre et marie curie",
+        "zipCode": "94200",
+        "city": "Ivry-sur-Seine",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59566",
+        "x": 600814.0276090225,
+        "y": 2428860.183239779,
+        "name": "châtelet",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59568",
+        "x": 599815.8925367866,
+        "y": 2430477.741800457,
+        "name": "chaussée d'antin (la fayette)",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59570",
+        "x": 602964.7022333859,
+        "y": 2432463.616519629,
+        "name": "crimée",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59572",
+        "x": 601922.8096837157,
+        "y": 2431319.4499612725,
+        "name": "château landon",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59574",
+        "x": 600950.1805984619,
+        "y": 2431002.991954776,
+        "name": "poissonnière",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59576",
+        "x": 601463.7681739684,
+        "y": 2428323.7787357033,
+        "name": "pont marie (cité des arts)",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59578",
+        "x": 601856.5953837003,
+        "y": 2423615.9624320897,
+        "name": "le kremlin-bicêtre",
+        "zipCode": "94270",
+        "city": "Le Kremlin-Bicêtre",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59579",
+        "x": 602361.7042488103,
+        "y": 2421852.4216673104,
+        "name": "villejuif-paul vaillant couturier (hôpital paul brousse)",
+        "zipCode": "94800",
+        "city": "Villejuif",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59580",
+        "x": 602100.0322932419,
+        "y": 2422844.1071270974,
+        "name": "villejuif-léo lagrange",
+        "zipCode": "94800",
+        "city": "Villejuif",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59591",
+        "x": 599932.9425171308,
+        "y": 2429522.5063263034,
+        "name": "palais-royal (musée du louvre)",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59663",
+        "x": 602031.7439488544,
+        "y": 2424594.242143671,
+        "name": "porte de choisy",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59664",
+        "x": 600440.0283284151,
+        "y": 2428918.338607977,
+        "name": "pont neuf",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59666",
+        "x": 601721.8696285799,
+        "y": 2424472.422518256,
+        "name": "porte d'italie",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    }
+]

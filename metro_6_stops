@@ -1,0 +1,254 @@
+[
+    {
+        "id": "stop_area:0:SA:59205",
+        "x": 596497.9929762539,
+        "y": 2428443.980274488,
+        "name": "bir-hakeim (grenelle)",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775810",
+        "x": 604391.9279627617,
+        "y": 2427810.8537192745,
+        "name": "nation",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59236",
+        "x": 596975.4994688506,
+        "y": 2430562.343506515,
+        "name": "charles de gaulle-etoile",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59251",
+        "x": 599573.2177657476,
+        "y": 2426716.5076186126,
+        "name": "raspail",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59259",
+        "x": 599031.9426449261,
+        "y": 2427257.882847387,
+        "name": "montparnasse-bienvenue",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59275",
+        "x": 601421.0974822423,
+        "y": 2425885.391790368,
+        "name": "place d'italie",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59346",
+        "x": 597173.4173693988,
+        "y": 2427847.440045668,
+        "name": "la motte-picquet-grenelle",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59410",
+        "x": 603253.1932574945,
+        "y": 2426657.2904960634,
+        "name": "bercy",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59449",
+        "x": 600131.3437466611,
+        "y": 2426020.3054591264,
+        "name": "saint-jacques",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59450",
+        "x": 602696.4360819787,
+        "y": 2426562.433801572,
+        "name": "quai de la gare",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59451",
+        "x": 596247.9754810723,
+        "y": 2428765.254692078,
+        "name": "passy",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59452",
+        "x": 598248.001318342,
+        "y": 2427093.8474980737,
+        "name": "pasteur",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59453",
+        "x": 604809.9968806026,
+        "y": 2427430.7657872504,
+        "name": "picpus",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59454",
+        "x": 601892.342177367,
+        "y": 2426052.641482953,
+        "name": "nationale",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59455",
+        "x": 596765.6456813976,
+        "y": 2428095.669737038,
+        "name": "dupleix",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59456",
+        "x": 599258.0141798182,
+        "y": 2426912.035050145,
+        "name": "edgar-quinet",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59457",
+        "x": 602411.8291107652,
+        "y": 2426372.159242441,
+        "name": "chevaleret",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59458",
+        "x": 601101.1051073718,
+        "y": 2425563.771747544,
+        "name": "corvisart",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59459",
+        "x": 597379.1798611708,
+        "y": 2427703.808178927,
+        "name": "cambronne",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59460",
+        "x": 604682.6835064089,
+        "y": 2426939.7598598804,
+        "name": "bel-air",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59461",
+        "x": 603786.173118577,
+        "y": 2426808.0405480345,
+        "name": "dugommier",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59546",
+        "x": 599861.2566740969,
+        "y": 2426221.02916908,
+        "name": "denfert-rochereau",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59648",
+        "x": 598092.9953339847,
+        "y": 2427393.9806341105,
+        "name": "sèvres-lecourbe",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59617",
+        "x": 596472.4842988478,
+        "y": 2429459.1934739617,
+        "name": "trocadéro",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59650",
+        "x": 596830.9990644448,
+        "y": 2430332.987998549,
+        "name": "kléber",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59651",
+        "x": 600529.5577249015,
+        "y": 2425840.743978731,
+        "name": "glacière",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59652",
+        "x": 596642.4160871665,
+        "y": 2429805.910512091,
+        "name": "boissière",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59561",
+        "x": 604335.484282165,
+        "y": 2426785.946221779,
+        "name": "daumesnil (félix eboué)",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    }
+]

@@ -1,0 +1,227 @@
+[
+    {
+        "id": "stop_area:0:SA:59225",
+        "x": 601859.2335205019,
+        "y": 2428575.0168267507,
+        "name": "saint-paul (le marais)",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59226",
+        "x": 599456.0039479755,
+        "y": 2429605.9865055224,
+        "name": "tuileries",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59227",
+        "x": 603635.4886090823,
+        "y": 2427597.2610677388,
+        "name": "reuilly-diderot",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59228",
+        "x": 605315.6032749534,
+        "y": 2427600.328119508,
+        "name": "porte de vincennes",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738102",
+        "x": 596033.5642544009,
+        "y": 2431046.8286989136,
+        "name": "porte maillot",
+        "zipCode": "92200",
+        "city": "Neuilly-sur-Seine",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775810",
+        "x": 604391.9279627617,
+        "y": 2427810.8537192745,
+        "name": "nation",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59231",
+        "x": 600335.0237756209,
+        "y": 2429262.703292665,
+        "name": "louvre-rivoli",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59232",
+        "x": 598039.0749753186,
+        "y": 2430076.9687247956,
+        "name": "franklin-roosevelt",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8768600",
+        "x": 602651.6160358166,
+        "y": 2427415.928095017,
+        "name": "gare de lyon",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59234",
+        "x": 597381.9727209251,
+        "y": 2430403.3614983847,
+        "name": "george v",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59235",
+        "x": 598866.6378759986,
+        "y": 2429787.332200035,
+        "name": "concorde",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59236",
+        "x": 596975.4994688506,
+        "y": 2430562.343506515,
+        "name": "charles de gaulle-etoile",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59237",
+        "x": 596523.3110187737,
+        "y": 2430820.9671852575,
+        "name": "argentine",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59238",
+        "x": 602397.823315267,
+        "y": 2428305.0558357686,
+        "name": "bastille",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59250",
+        "x": 595262.5174843615,
+        "y": 2431576.0550939767,
+        "name": "les sablons (jardin d'acclimatation)",
+        "zipCode": "92200",
+        "city": "Neuilly-sur-Seine",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59566",
+        "x": 600814.0276090225,
+        "y": 2428860.183239779,
+        "name": "châtelet",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59590",
+        "x": 601065.4384801502,
+        "y": 2428718.1344011636,
+        "name": "hôtel de ville",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59591",
+        "x": 599932.9425171308,
+        "y": 2429522.5063263034,
+        "name": "palais-royal (musée du louvre)",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59592",
+        "x": 598329.4898738356,
+        "y": 2429936.2323826225,
+        "name": "champs-elysées-clémenceau",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59593",
+        "x": 593622.2990148658,
+        "y": 2432097.5003991784,
+        "name": "esplanade de la défense",
+        "zipCode": "92400",
+        "city": "Courbevoie",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738221",
+        "x": 592866.1041352616,
+        "y": 2432597.2147585447,
+        "name": "gare de la défense (grande arche)",
+        "zipCode": "92400",
+        "city": "Courbevoie",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59595",
+        "x": 607627.1734787477,
+        "y": 2427331.4098740877,
+        "name": "château de vincennes",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59596",
+        "x": 606693.6885476155,
+        "y": 2427467.673629581,
+        "name": "bérault",
+        "zipCode": "94160",
+        "city": "Saint-Mandé",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59661",
+        "x": 594368.134902049,
+        "y": 2431899.5476914607,
+        "name": "pont de neuilly",
+        "zipCode": "92200",
+        "city": "Neuilly-sur-Seine",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59662",
+        "x": 606026.7449115828,
+        "y": 2427531.2565532336,
+        "name": "saint-mandé",
+        "zipCode": "94160",
+        "city": "Saint-Mandé",
+        "elevator": false
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "id": "stop_area:0:SA:8768200",
+        "x": 623537.2016306395,
+        "y": 2392110.5760406777,
+        "name": "gare de melun",
+        "zipCode": "77000",
+        "city": "Melun",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8768220",
+        "x": 626298.2108715904,
+        "y": 2386322.794952617,
+        "name": "gare de bois-le-roi",
+        "zipCode": "77590",
+        "city": "Bois-le-Roi",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8768221",
+        "x": 628850.6096737552,
+        "y": 2379734.4940903634,
+        "name": "gare de fontainebleau - avon",
+        "zipCode": "77210",
+        "city": "Avon",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8768225",
+        "x": 631667.0057896641,
+        "y": 2377349.9716683305,
+        "name": "gare de thomery",
+        "zipCode": "77300",
+        "city": "Fontainebleau",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8768227",
+        "x": 634253.0597776526,
+        "y": 2375551.4309201464,
+        "name": "gare de môret - veneux-les-sablons",
+        "zipCode": "77250",
+        "city": "Moret-Loing-et-Orvanne",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8768229",
+        "x": 635516.0147873918,
+        "y": 2376026.036662818,
+        "name": "gare de saint-mammès",
+        "zipCode": "77670",
+        "city": "Saint-Mammès",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8768230",
+        "x": 644983.3818254166,
+        "y": 2375851.903991492,
+        "name": "gare de montereau",
+        "zipCode": "77130",
+        "city": "Montereau-Fault-Yonne",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8768240",
+        "x": 625340.7559710535,
+        "y": 2390219.410082477,
+        "name": "gare de livry-sur-seine",
+        "zipCode": "77000",
+        "city": "Livry-sur-Seine",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8768241",
+        "x": 626537.31801809,
+        "y": 2387672.284570675,
+        "name": "gare de chartrettes",
+        "zipCode": "77590",
+        "city": "Chartrettes",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8768242",
+        "x": 630647.9976581463,
+        "y": 2387667.6637657173,
+        "name": "gare de fontaine-le-port",
+        "zipCode": "77590",
+        "city": "Fontaine-le-Port",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8768243",
+        "x": 631327.6304817203,
+        "y": 2382825.643197451,
+        "name": "gare de héricy",
+        "zipCode": "77850",
+        "city": "Héricy",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8768244",
+        "x": 630813.9657070737,
+        "y": 2381380.9878630037,
+        "name": "gare de vulaines-sur-seine - samoreau",
+        "zipCode": "77870",
+        "city": "Vulaines-sur-Seine",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8768245",
+        "x": 634265.2345856916,
+        "y": 2378712.109528033,
+        "name": "gare de champagne-sur-seine",
+        "zipCode": "77430",
+        "city": "Champagne-sur-Seine",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8768246",
+        "x": 637358.8357299797,
+        "y": 2376610.9409237537,
+        "name": "gare de vernou-sur-seine",
+        "zipCode": "77670",
+        "city": "Vernou-la-Celle-sur-Seine",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8768247",
+        "x": 641540.6047756411,
+        "y": 2375705.4535568086,
+        "name": "gare de la grande-paroisse",
+        "zipCode": "77130",
+        "city": "La Grande-Paroisse",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8768400",
+        "x": 630331.0138123075,
+        "y": 2334290.9702411597,
+        "name": "gare de montargis",
+        "zipCode": "45200",
+        "city": "Montargis",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8768410",
+        "x": 629818.9899652422,
+        "y": 2370902.0322761596,
+        "name": "gare de montigny-sur-loing",
+        "zipCode": "77690",
+        "city": "Montigny-sur-Loing",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8768411",
+        "x": 626387.4679317725,
+        "y": 2370494.450794879,
+        "name": "gare de bourron-marlotte - grez",
+        "zipCode": "77780",
+        "city": "Bourron-Marlotte",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8768412",
+        "x": 625976.8581077827,
+        "y": 2363224.4256810024,
+        "name": "gare de nemours - saint-pierre",
+        "zipCode": "77140",
+        "city": "Nemours",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8768419",
+        "x": 627335.5275138733,
+        "y": 2359166.99891726,
+        "name": "gare de bagneaux-sur-loing",
+        "zipCode": "77167",
+        "city": "Bagneaux-sur-Loing",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8768421",
+        "x": 629616.1810854636,
+        "y": 2353727.2613563817,
+        "name": "gare de souppes - château-landon",
+        "zipCode": "77460",
+        "city": "Souppes-sur-Loing",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8768423",
+        "x": 631704.0082432054,
+        "y": 2349919.993089184,
+        "name": "gare de dordives",
+        "zipCode": "45680",
+        "city": "Dordives",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8768424",
+        "x": 632454.9975942912,
+        "y": 2344250.994173169,
+        "name": "gare de ferrières - fontenay",
+        "zipCode": "45210",
+        "city": "Fontenay-sur-Loing",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8768600",
+        "x": 602651.6160358166,
+        "y": 2427415.928095017,
+        "name": "gare de lyon",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    }
+]

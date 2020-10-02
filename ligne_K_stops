@@ -1,0 +1,92 @@
+[
+    {
+        "id": "stop_area:0:SA:8727100",
+        "x": 601459.4547719109,
+        "y": 2431262.349002038,
+        "name": "gare du nord",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727141",
+        "x": 611627.0574415971,
+        "y": 2437139.3365776925,
+        "name": "gare d'aulnay sous bois",
+        "zipCode": "93600",
+        "city": "Aulnay-sous-Bois",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727152",
+        "x": 622457.0008302047,
+        "y": 2442005.661358394,
+        "name": "gare de mitry claye",
+        "zipCode": "77290",
+        "city": "Mitry-Mory",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727153",
+        "x": 626503.9950552091,
+        "y": 2448298.9872700106,
+        "name": "gare de dammartin juilly st mard",
+        "zipCode": "77230",
+        "city": "Saint-Mard",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727155",
+        "x": 629830.0150337131,
+        "y": 2455426.960009845,
+        "name": "gare du plessis belleville",
+        "zipCode": "60330",
+        "city": "Le Plessis-Belleville",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727157",
+        "x": 633393.9883524327,
+        "y": 2460571.0390046164,
+        "name": "gare de nanteuil le haudoin",
+        "zipCode": "60440",
+        "city": "Nanteuil-le-Haudouin",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727158",
+        "x": 636583.9963263199,
+        "y": 2467126.0415094537,
+        "name": "gare d'ormoy villers",
+        "zipCode": "60800",
+        "city": "Ormoy-Villers",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727159",
+        "x": 640230.982916803,
+        "y": 2470525.956740505,
+        "name": "gare de crepy en valois",
+        "zipCode": "60800",
+        "city": "Crépy-en-Valois",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727204",
+        "x": 624068.9855552084,
+        "y": 2443765.0292292377,
+        "name": "gare de compans",
+        "zipCode": "77290",
+        "city": "Compans",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727205",
+        "x": 625179.0174896952,
+        "y": 2445676.0086978585,
+        "name": "gare de thieux nantouillet",
+        "zipCode": "77230",
+        "city": "Thieux",
+        "elevator": false
+    }
+]

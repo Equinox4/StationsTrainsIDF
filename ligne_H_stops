@@ -1,0 +1,461 @@
+[
+    {
+        "id": "stop_area:0:SA:8711300",
+        "x": 601580.864994222,
+        "y": 2430886.40385613,
+        "name": "gare de l'est",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727100",
+        "x": 601459.4547719109,
+        "y": 2431262.349002038,
+        "name": "gare du nord",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727101",
+        "x": 600691.7154649211,
+        "y": 2437463.9094222463,
+        "name": "gare de saint-denis",
+        "zipCode": "93210",
+        "city": "Saint-Denis",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727112",
+        "x": 599380.2937396531,
+        "y": 2440044.709844474,
+        "name": "gare d'épinay - villetaneuse",
+        "zipCode": "95170",
+        "city": "Deuil-la-Barre",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727117",
+        "x": 598589.2161923416,
+        "y": 2440969.7851607213,
+        "name": "gare de la barre ormesson",
+        "zipCode": "95170",
+        "city": "Deuil-la-Barre",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727202",
+        "x": 601026.0125015469,
+        "y": 2453477.0007853117,
+        "name": "gare de villaines",
+        "zipCode": "95570",
+        "city": "Villaines-sous-Bois",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727203",
+        "x": 604601.0135944802,
+        "y": 2457921.948954536,
+        "name": "gare de seugy",
+        "zipCode": "95270",
+        "city": "Seugy",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727600",
+        "x": 609657.0142424133,
+        "y": 2474053.052024942,
+        "name": "gare de creil",
+        "zipCode": "60100",
+        "city": "Creil",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727602",
+        "x": 597828.0354118041,
+        "y": 2441641.251755388,
+        "name": "gare d'enghien-les-bains",
+        "zipCode": "95880",
+        "city": "Enghien-les-Bains",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727603",
+        "x": 596756.0344215864,
+        "y": 2442461.3256041454,
+        "name": "gare de champ de courses d'enghien",
+        "zipCode": "95230",
+        "city": "Soisy-sous-Montmorency",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727605",
+        "x": 595231.1193348534,
+        "y": 2442448.380371851,
+        "name": "gare d'ermont - eaubonne",
+        "zipCode": "95120",
+        "city": "Ermont",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727606",
+        "x": 594174.9688030952,
+        "y": 2443005.753220471,
+        "name": "gare de cernay",
+        "zipCode": "95120",
+        "city": "Ermont",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727607",
+        "x": 592553.35319388,
+        "y": 2443936.1489594895,
+        "name": "gare de franconville - le-plessis-bouchard",
+        "zipCode": "95130",
+        "city": "Franconville",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727608",
+        "x": 589827.2993532242,
+        "y": 2445487.028526654,
+        "name": "gare de montigny - beauchamp",
+        "zipCode": "95250",
+        "city": "Beauchamp",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727609",
+        "x": 586578.5685147203,
+        "y": 2446831.5450622495,
+        "name": "gare de pierrelaye",
+        "zipCode": "95480",
+        "city": "Pierrelaye",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727610",
+        "x": 583204.3784461515,
+        "y": 2449744.26793891,
+        "name": "gare de saint-ouen-l'aumône",
+        "zipCode": "95310",
+        "city": "Saint-Ouen-l'Aumône",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727613",
+        "x": 582329.5508858392,
+        "y": 2449892.570104902,
+        "name": "gare de pontoise",
+        "zipCode": "95300",
+        "city": "Pontoise",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727614",
+        "x": 584365.30826643,
+        "y": 2450862.9589305148,
+        "name": "gare d'épluches",
+        "zipCode": "95310",
+        "city": "Saint-Ouen-l'Aumône",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727615",
+        "x": 584961.0128548584,
+        "y": 2451414.0090900855,
+        "name": "gare de pont petit",
+        "zipCode": "95310",
+        "city": "Saint-Ouen-l'Aumône",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727616",
+        "x": 585755.0082057121,
+        "y": 2452382.952817123,
+        "name": "gare de chaponval",
+        "zipCode": "95430",
+        "city": "Auvers-sur-Oise",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727634",
+        "x": 600065.3524310895,
+        "y": 2441912.0039751944,
+        "name": "gare de deuil - montmagny",
+        "zipCode": "95170",
+        "city": "Deuil-la-Barre",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727636",
+        "x": 601259.8078608011,
+        "y": 2442980.620499833,
+        "name": "gare de groslay",
+        "zipCode": "95410",
+        "city": "Groslay",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727638",
+        "x": 602326.0945583283,
+        "y": 2444099.851225912,
+        "name": "gare de sarcelles - saint-brice",
+        "zipCode": "95350",
+        "city": "Saint-Brice-sous-Forêt",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727639",
+        "x": 601962.2310215603,
+        "y": 2447218.5822149944,
+        "name": "gare d'écouen - ézanville",
+        "zipCode": "95460",
+        "city": "Ézanville",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727640",
+        "x": 605954.0359514357,
+        "y": 2468489.9794338685,
+        "name": "gare de saint-leu-d'esserent",
+        "zipCode": "60340",
+        "city": "Saint-Leu-d'Esserent",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727641",
+        "x": 602907.0290806154,
+        "y": 2467271.027669753,
+        "name": "gare de précy-sur-oise",
+        "zipCode": "60460",
+        "city": "Précy-sur-Oise",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727643",
+        "x": 600113.780719447,
+        "y": 2448276.006079326,
+        "name": "gare de domont",
+        "zipCode": "95330",
+        "city": "Domont",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727644",
+        "x": 601899.0349403319,
+        "y": 2463271.0072817975,
+        "name": "gare de boran-sur-oise",
+        "zipCode": "60820",
+        "city": "Boran-sur-Oise",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727645",
+        "x": 599218.9748038745,
+        "y": 2461913.9669209886,
+        "name": "gare de bruyères-sur-oise",
+        "zipCode": "95820",
+        "city": "Bruyères-sur-Oise",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727646",
+        "x": 595827.986575986,
+        "y": 2461122.4885924864,
+        "name": "gare de persant - beaumont",
+        "zipCode": "95340",
+        "city": "Persan",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727648",
+        "x": 598979.7357762892,
+        "y": 2449687.626583088,
+        "name": "gare de bouffémont - moisselles",
+        "zipCode": "95570",
+        "city": "Bouffémont",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727649",
+        "x": 598945.8040467271,
+        "y": 2452022.1731696744,
+        "name": "gare de montsoult - maffliers",
+        "zipCode": "95560",
+        "city": "Montsoult",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727650",
+        "x": 596437.0074016544,
+        "y": 2457275.0216529313,
+        "name": "gare de presles - courcelles",
+        "zipCode": "95590",
+        "city": "Presles",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727651",
+        "x": 593107.3143430594,
+        "y": 2459784.0478588073,
+        "name": "gare de champagne-sur-oise",
+        "zipCode": "95660",
+        "city": "Champagne-sur-Oise",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727652",
+        "x": 590730.3445998284,
+        "y": 2457407.3232251783,
+        "name": "gare de l'isle-adam - parmain",
+        "zipCode": "95620",
+        "city": "Parmain",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727653",
+        "x": 590226.9808641587,
+        "y": 2454882.5478093866,
+        "name": "gare de valmondois",
+        "zipCode": "95430",
+        "city": "Butry-sur-Oise",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727654",
+        "x": 588164.9805039954,
+        "y": 2452530.7034526104,
+        "name": "gare d'auvers-sur-oise",
+        "zipCode": "95430",
+        "city": "Auvers-sur-Oise",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727655",
+        "x": 601849.7786363175,
+        "y": 2455544.0468577114,
+        "name": "gare de belloy - saint-martin",
+        "zipCode": "95270",
+        "city": "Belloy-en-France",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727656",
+        "x": 602318.9964246427,
+        "y": 2457645.038405032,
+        "name": "gare de viarmes",
+        "zipCode": "95270",
+        "city": "Viarmes",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727657",
+        "x": 606201.7145227292,
+        "y": 2457740.0312412223,
+        "name": "gare de luzarches",
+        "zipCode": "95270",
+        "city": "Luzarches",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727658",
+        "x": 594636.9848976141,
+        "y": 2443577.049651329,
+        "name": "gare d'ermont halte",
+        "zipCode": "95120",
+        "city": "Ermont",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727659",
+        "x": 594349.6666576248,
+        "y": 2444284.9518690775,
+        "name": "gare de gros noyer saint-prix",
+        "zipCode": "95120",
+        "city": "Ermont",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727660",
+        "x": 593101.5112927478,
+        "y": 2446403.546651999,
+        "name": "gare de saint-leu-la-forêt",
+        "zipCode": "95320",
+        "city": "Saint-Leu-la-Forêt",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727662",
+        "x": 592282.9662174172,
+        "y": 2447163.9806961888,
+        "name": "gare de vaucelles",
+        "zipCode": "95150",
+        "city": "Taverny",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727663",
+        "x": 591581.6839419139,
+        "y": 2447502.7124847155,
+        "name": "gare de taverny",
+        "zipCode": "95150",
+        "city": "Taverny",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727664",
+        "x": 590843.4713703312,
+        "y": 2448673.20793339,
+        "name": "gare de bessancourt",
+        "zipCode": "95550",
+        "city": "Bessancourt",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727665",
+        "x": 590030.3037229787,
+        "y": 2449895.686774177,
+        "name": "gare de frépillon",
+        "zipCode": "95740",
+        "city": "Frépillon",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727666",
+        "x": 589264.5354812434,
+        "y": 2451132.4482948626,
+        "name": "gare de méry-sur-oise",
+        "zipCode": "95540",
+        "city": "Méry-sur-Oise",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727667",
+        "x": 590388.0150961693,
+        "y": 2453331.3626058116,
+        "name": "gare de mériel",
+        "zipCode": "95630",
+        "city": "Mériel",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727675",
+        "x": 595932.0334806477,
+        "y": 2459408.492290023,
+        "name": "gare de nointel - mours",
+        "zipCode": "95590",
+        "city": "Nointel",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8733798",
+        "x": 584740.1054244455,
+        "y": 2448430.159650345,
+        "name": "gare de saint-ouen-l'aumône liesse",
+        "zipCode": "95310",
+        "city": "Saint-Ouen-l'Aumône",
+        "elevator": true
+    }
+]

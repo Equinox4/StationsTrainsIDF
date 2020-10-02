@@ -1,0 +1,263 @@
+[
+    {
+        "id": "stop_area:0:SA:59220",
+        "x": 599186.2604651821,
+        "y": 2430818.505069291,
+        "name": "saint-lazare",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59235",
+        "x": 598866.6378759986,
+        "y": 2429787.332200035,
+        "name": "concorde",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59259",
+        "x": 599031.9426449261,
+        "y": 2427257.882847387,
+        "name": "montparnasse-bienvenue",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59252",
+        "x": 601007.9000649191,
+        "y": 2432575.4547463763,
+        "name": "marcadet-poissonniers",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59412",
+        "x": 599080.6702462608,
+        "y": 2430088.9382524393,
+        "name": "madeleine",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59420",
+        "x": 600117.4010092025,
+        "y": 2431533.3401101786,
+        "name": "pigalle",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59452",
+        "x": 598248.001318342,
+        "y": 2427093.8474980737,
+        "name": "pasteur",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59509",
+        "x": 597918.5139728623,
+        "y": 2427013.515330844,
+        "name": "volontaires",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59510",
+        "x": 599438.2612707164,
+        "y": 2427754.069332435,
+        "name": "rennes",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59511",
+        "x": 599202.011482458,
+        "y": 2428638.10835523,
+        "name": "rue du bac",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59512",
+        "x": 600078.7287970703,
+        "y": 2431152.0222089253,
+        "name": "saint-georges",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59513",
+        "x": 601656.890412132,
+        "y": 2433299.0757177174,
+        "name": "porte de la chapelle",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59514",
+        "x": 596437.6019029174,
+        "y": 2426042.022027455,
+        "name": "porte de versailles",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59515",
+        "x": 600164.9673534604,
+        "y": 2430852.154990143,
+        "name": "notre-dame de lorette",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59516",
+        "x": 599486.4769898182,
+        "y": 2427452.6458934112,
+        "name": "notre-dame des champs",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59517",
+        "x": 601738.8542024764,
+        "y": 2432483.490622184,
+        "name": "marx-dormoy",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59518",
+        "x": 600573.9704806918,
+        "y": 2432690.0071495464,
+        "name": "jules joffrin",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59519",
+        "x": 600223.4909147628,
+        "y": 2432371.755168482,
+        "name": "lamarck-caulaincourt",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59520",
+        "x": 597096.3003469704,
+        "y": 2426531.0996317333,
+        "name": "convention",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59521",
+        "x": 600135.670024615,
+        "y": 2431804.613921005,
+        "name": "abbesses",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59522",
+        "x": 595361.6047778882,
+        "y": 2425098.053910562,
+        "name": "mairie d'issy",
+        "zipCode": "92130",
+        "city": "Issy-les-Moulineaux",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59523",
+        "x": 595745.0266088033,
+        "y": 2425392.0475518936,
+        "name": "corentin-celton",
+        "zipCode": "92130",
+        "city": "Issy-les-Moulineaux",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59362",
+        "x": 599284.0255166934,
+        "y": 2428103.9077225965,
+        "name": "sèvres-babylone",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59599",
+        "x": 598995.8974905545,
+        "y": 2428932.108725721,
+        "name": "solférino",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59600",
+        "x": 599627.6562997415,
+        "y": 2430885.661504216,
+        "name": "trinité-d'estienne d'orves",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59601",
+        "x": 597370.0094764836,
+        "y": 2426775.414693081,
+        "name": "vaugirard (adolphe chérioux)",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59602",
+        "x": 598626.0155548272,
+        "y": 2427438.7753149155,
+        "name": "falguière",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59603",
+        "x": 598800.8293711506,
+        "y": 2429284.752356213,
+        "name": "assemblée nationale",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59774",
+        "x": 602232.1049434185,
+        "y": 2434322.175510441,
+        "name": "front populaire",
+        "zipCode": "93300",
+        "city": "Aubervilliers",
+        "elevator": true
+    }
+]

@@ -1,0 +1,344 @@
+[
+    {
+        "id": "stop_area:0:SA:59204",
+        "x": 609075.9912155007,
+        "y": 2420164.284747594,
+        "name": "créteil-préfecture (hôtel de ville)",
+        "zipCode": "94000",
+        "city": "Créteil",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59209",
+        "x": 599697.852000957,
+        "y": 2430216.1572514647,
+        "name": "opéra",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59227",
+        "x": 603635.4886090823,
+        "y": 2427597.2610677388,
+        "name": "reuilly-diderot",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59235",
+        "x": 598866.6378759986,
+        "y": 2429787.332200035,
+        "name": "concorde",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59238",
+        "x": 602397.823315267,
+        "y": 2428305.0558357686,
+        "name": "bastille",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59253",
+        "x": 601299.6467192725,
+        "y": 2430095.6663337755,
+        "name": "strasbourg-saint-denis",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59346",
+        "x": 597173.4173693988,
+        "y": 2427847.440045668,
+        "name": "la motte-picquet-grenelle",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59412",
+        "x": 599080.6702462608,
+        "y": 2430088.9382524393,
+        "name": "madeleine",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59463",
+        "x": 600216.575308634,
+        "y": 2430411.423446472,
+        "name": "richelieu-drouot",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59464",
+        "x": 600492.1947931212,
+        "y": 2430332.5488551976,
+        "name": "grands boulevards",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59465",
+        "x": 604560.1435645648,
+        "y": 2425951.298686298,
+        "name": "porte de charenton",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59466",
+        "x": 604870.6890691415,
+        "y": 2426510.6535871853,
+        "name": "michel bizot",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59467",
+        "x": 603950.3422833128,
+        "y": 2427322.9729896095,
+        "name": "montgallet",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59468",
+        "x": 602936.5779745311,
+        "y": 2428100.0137687535,
+        "name": "ledru-rollin",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8739303",
+        "x": 598321.8190797295,
+        "y": 2429325.377523875,
+        "name": "invalides",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59470",
+        "x": 597743.266696915,
+        "y": 2428445.5724447398,
+        "name": "ecole militaire",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59471",
+        "x": 603482.6497917502,
+        "y": 2427879.5606716946,
+        "name": "faidherbe-chaligny",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59472",
+        "x": 602238.6799459463,
+        "y": 2429353.0134534985,
+        "name": "filles du calvaire",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59473",
+        "x": 602631.1192309129,
+        "y": 2428913.8938302193,
+        "name": "chemin vert",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59474",
+        "x": 596864.0020841211,
+        "y": 2427363.0410827473,
+        "name": "commerce",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59475",
+        "x": 600885.9985083175,
+        "y": 2430247.027227135,
+        "name": "bonne nouvelle",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59476",
+        "x": 596334.368806636,
+        "y": 2427022.330077058,
+        "name": "boucicaut",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59477",
+        "x": 595718.8495028227,
+        "y": 2426435.6146488143,
+        "name": "balard",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59478",
+        "x": 596029.7582051933,
+        "y": 2426640.784246686,
+        "name": "lourmel",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59482",
+        "x": 605684.8566479551,
+        "y": 2424790.1350436695,
+        "name": "charenton-ecoles",
+        "zipCode": "94220",
+        "city": "Charenton-le-Pont",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59483",
+        "x": 607908.7798180458,
+        "y": 2422816.1507220687,
+        "name": "maisons-alfort-les juilliottes",
+        "zipCode": "94700",
+        "city": "Maisons-Alfort",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59484",
+        "x": 607399.9971314365,
+        "y": 2423371.3466318226,
+        "name": "maisons-alfort-stade",
+        "zipCode": "94700",
+        "city": "Maisons-Alfort",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59557",
+        "x": 601954.6147734893,
+        "y": 2429896.2308558654,
+        "name": "république",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59558",
+        "x": 602171.5866991073,
+        "y": 2429137.0193405435,
+        "name": "saint-sébastien-froissart",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59559",
+        "x": 605117.9850355994,
+        "y": 2426349.9764445033,
+        "name": "porte dorée",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59560",
+        "x": 596822.50525084,
+        "y": 2427223.9824737404,
+        "name": "félix faure",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59561",
+        "x": 604335.484282165,
+        "y": 2426785.946221779,
+        "name": "daumesnil (félix eboué)",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59562",
+        "x": 605136.5411085798,
+        "y": 2425295.653216567,
+        "name": "liberté",
+        "zipCode": "94220",
+        "city": "Charenton-le-Pont",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59563",
+        "x": 608223.8603422894,
+        "y": 2422033.7514462215,
+        "name": "créteil-l'echat (hôpital henri mondor)",
+        "zipCode": "94000",
+        "city": "Créteil",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59564",
+        "x": 608273.206857592,
+        "y": 2421293.268576198,
+        "name": "créteil-université",
+        "zipCode": "94000",
+        "city": "Créteil",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59565",
+        "x": 606269.976886902,
+        "y": 2424039.2642472014,
+        "name": "ecole vétérinaire de maisons-alfort",
+        "zipCode": "94700",
+        "city": "Maisons-Alfort",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59658",
+        "x": 598027.2400757135,
+        "y": 2428775.2593356944,
+        "name": "la tour-maubourg",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59686",
+        "x": 609380.4639576972,
+        "y": 2418942.0281919534,
+        "name": "pointe du lac",
+        "zipCode": "94000",
+        "city": "Créteil",
+        "elevator": true
+    }
+]

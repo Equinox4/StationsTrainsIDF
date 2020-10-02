@@ -1,0 +1,119 @@
+[
+    {
+        "id": "stop_area:0:SA:59327",
+        "x": 605230.7031263352,
+        "y": 2430966.411834402,
+        "name": "porte des lilas",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59402",
+        "x": 603491.0160369739,
+        "y": 2430600.042276231,
+        "name": "pyrénées",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59403",
+        "x": 601234.4865451013,
+        "y": 2429271.0508188065,
+        "name": "rambuteau",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59404",
+        "x": 604531.8598368427,
+        "y": 2430687.990320221,
+        "name": "télégraphe",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59405",
+        "x": 603859.1956079648,
+        "y": 2430678.38351856,
+        "name": "jourdain",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59406",
+        "x": 602979.5273181613,
+        "y": 2430429.965368386,
+        "name": "belleville",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59408",
+        "x": 605890.8329873099,
+        "y": 2431288.051568968,
+        "name": "mairie des lilas",
+        "zipCode": "93260",
+        "city": "Les Lilas",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59638",
+        "x": 604199.9132634808,
+        "y": 2430862.099522159,
+        "name": "place des fêtes",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59590",
+        "x": 601065.4384801502,
+        "y": 2428718.1344011636,
+        "name": "hôtel de ville",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59640",
+        "x": 602518.0266531472,
+        "y": 2430184.73817766,
+        "name": "goncourt (hôpital saint-louis)",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59566",
+        "x": 600814.0276090225,
+        "y": 2428860.183239779,
+        "name": "châtelet",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59588",
+        "x": 601435.9800071098,
+        "y": 2429689.7936902223,
+        "name": "arts-et-métiers",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59557",
+        "x": 601954.6147734893,
+        "y": 2429896.2308558654,
+        "name": "république",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    }
+]

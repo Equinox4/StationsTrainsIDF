@@ -1,0 +1,335 @@
+[
+    {
+        "id": "stop_area:0:SA:59000",
+        "x": 609791.9650752058,
+        "y": 2433999.9570068032,
+        "name": "pont de bondy",
+        "zipCode": "93130",
+        "city": "Noisy-le-Sec",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59002",
+        "x": 609438.471924171,
+        "y": 2433550.504535446,
+        "name": "petit noisy",
+        "zipCode": "93130",
+        "city": "Noisy-le-Sec",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59004",
+        "x": 609081.5170610453,
+        "y": 2433074.4763224884,
+        "name": "gare de noisy-le-sec",
+        "zipCode": "93130",
+        "city": "Noisy-le-Sec",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59006",
+        "x": 608594.3819803371,
+        "y": 2434404.4209078834,
+        "name": "jean rostand",
+        "zipCode": "93000",
+        "city": "Bobigny",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59008",
+        "x": 609124.1503598008,
+        "y": 2434235.3188175503,
+        "name": "auguste delaune",
+        "zipCode": "93000",
+        "city": "Bobigny",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59014",
+        "x": 606541.9797563329,
+        "y": 2435288.024329003,
+        "name": "hopital avicenne",
+        "zipCode": "93000",
+        "city": "Bobigny",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59015",
+        "x": 605700.5351334376,
+        "y": 2435636.5331183653,
+        "name": "maurice lachatre",
+        "zipCode": "93000",
+        "city": "Bobigny",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59541",
+        "x": 601698.204686361,
+        "y": 2437632.4657806098,
+        "name": "basilique de saint-denis",
+        "zipCode": "93210",
+        "city": "Saint-Denis",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59068",
+        "x": 608315.982078877,
+        "y": 2434280.6154761957,
+        "name": "bobigny - pablo picasso",
+        "zipCode": "93000",
+        "city": "Bobigny",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59070",
+        "x": 607879.3078425572,
+        "y": 2434242.6191916014,
+        "name": "hotel de ville de bobigny",
+        "zipCode": "93000",
+        "city": "Bobigny",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59072",
+        "x": 607523.2285964428,
+        "y": 2434270.521063435,
+        "name": "liberation",
+        "zipCode": "93000",
+        "city": "Bobigny",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59074",
+        "x": 607404.4872483828,
+        "y": 2434605.962616383,
+        "name": "la ferme",
+        "zipCode": "93000",
+        "city": "Bobigny",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59076",
+        "x": 607310.9720360305,
+        "y": 2434955.0142803406,
+        "name": "escadrille normandie-niemen",
+        "zipCode": "93000",
+        "city": "Bobigny",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59078",
+        "x": 606996.328820795,
+        "y": 2435205.878519291,
+        "name": "gaston roulaud",
+        "zipCode": "93000",
+        "city": "Bobigny",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59080",
+        "x": 605978.816039543,
+        "y": 2435581.2875760454,
+        "name": "drancy - avenir",
+        "zipCode": "93000",
+        "city": "Bobigny",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59082",
+        "x": 605435.473743274,
+        "y": 2435833.454114227,
+        "name": "la courneuve - 8 mai 1945",
+        "zipCode": "93120",
+        "city": "La Courneuve",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59084",
+        "x": 605142.9872847871,
+        "y": 2436051.5050828233,
+        "name": "danton",
+        "zipCode": "93120",
+        "city": "La Courneuve",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59086",
+        "x": 604805.0131811346,
+        "y": 2436239.4899245505,
+        "name": "stade geo andre",
+        "zipCode": "93120",
+        "city": "La Courneuve",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59088",
+        "x": 604099.3174932557,
+        "y": 2436471.6229219795,
+        "name": "hotel de ville de la courneuve",
+        "zipCode": "93120",
+        "city": "La Courneuve",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59090",
+        "x": 603576.2325969188,
+        "y": 2436841.0399034135,
+        "name": "la courneuve - six routes",
+        "zipCode": "93120",
+        "city": "La Courneuve",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59092",
+        "x": 603056.0064917163,
+        "y": 2437058.507319402,
+        "name": "cosmonautes",
+        "zipCode": "93120",
+        "city": "La Courneuve",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59096",
+        "x": 602518.9947394691,
+        "y": 2437361.4729520287,
+        "name": "hopital delafontaine",
+        "zipCode": "93210",
+        "city": "Saint-Denis",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59098",
+        "x": 602008.7587574432,
+        "y": 2437559.4558198047,
+        "name": "cimetiere de saint-denis",
+        "zipCode": "93210",
+        "city": "Saint-Denis",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59101",
+        "x": 601406.6865317125,
+        "y": 2437840.138448435,
+        "name": "marche de saint-denis",
+        "zipCode": "93210",
+        "city": "Saint-Denis",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59103",
+        "x": 601002.0002876763,
+        "y": 2437668.4732914,
+        "name": "theatre gerard philipe",
+        "zipCode": "93210",
+        "city": "Saint-Denis",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727101",
+        "x": 600691.7154649211,
+        "y": 2437463.9094222463,
+        "name": "gare de saint-denis",
+        "zipCode": "93210",
+        "city": "Saint-Denis",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59687",
+        "x": 600269.6728243792,
+        "y": 2437484.352601182,
+        "name": "l'ile-saint-denis",
+        "zipCode": "93450",
+        "city": "L'Île-Saint-Denis",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59689",
+        "x": 599771.9043120302,
+        "y": 2437487.3599430057,
+        "name": "mairie de villeneuve-la garenne",
+        "zipCode": "92390",
+        "city": "Villeneuve-la-Garenne",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59691",
+        "x": 599334.6760656154,
+        "y": 2437382.4669305906,
+        "name": "la noue",
+        "zipCode": "92390",
+        "city": "Villeneuve-la-Garenne",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59693",
+        "x": 599015.0905292683,
+        "y": 2437240.641931802,
+        "name": "chemin des reniers",
+        "zipCode": "92390",
+        "city": "Villeneuve-la-Garenne",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59695",
+        "x": 598299.6499731446,
+        "y": 2437283.544495314,
+        "name": "parc des chanteraines",
+        "zipCode": "92230",
+        "city": "Gennevilliers",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727120",
+        "x": 597828.1674538342,
+        "y": 2437243.8714813553,
+        "name": "gare de gennevilliers",
+        "zipCode": "92230",
+        "city": "Gennevilliers",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59699",
+        "x": 597634.1026112068,
+        "y": 2437051.335406787,
+        "name": "timbaud",
+        "zipCode": "92230",
+        "city": "Gennevilliers",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59701",
+        "x": 596890.6526857036,
+        "y": 2437245.867876779,
+        "name": "le village",
+        "zipCode": "92230",
+        "city": "Gennevilliers",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59703",
+        "x": 596488.0099751108,
+        "y": 2437107.3450207245,
+        "name": "le luth",
+        "zipCode": "92230",
+        "city": "Gennevilliers",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59705",
+        "x": 596099.9663459484,
+        "y": 2436903.7455203817,
+        "name": "les courtilles",
+        "zipCode": "92600",
+        "city": "Asnières-sur-Seine",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59939",
+        "x": 595462.9992493441,
+        "y": 2436636.1608546074,
+        "name": "asnieres - quatre routes",
+        "zipCode": "92600",
+        "city": "Asnières-sur-Seine",
+        "elevator": false
+    }
+]

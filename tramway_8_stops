@@ -1,0 +1,155 @@
+[
+    {
+        "id": "stop_area:0:SA:59542",
+        "x": 601469.5309048662,
+        "y": 2436853.156636756,
+        "name": "saint-denis - porte de paris",
+        "zipCode": "93210",
+        "city": "Saint-Denis",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59886",
+        "x": 601170.5798777421,
+        "y": 2437045.037403304,
+        "name": "pierre de geyter",
+        "zipCode": "93210",
+        "city": "Saint-Denis",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727101",
+        "x": 600691.7154649211,
+        "y": 2437463.9094222463,
+        "name": "gare de saint-denis",
+        "zipCode": "93210",
+        "city": "Saint-Denis",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59890",
+        "x": 600628.034755309,
+        "y": 2437948.500595966,
+        "name": "paul eluard",
+        "zipCode": "93210",
+        "city": "Saint-Denis",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59892",
+        "x": 600869.8395507324,
+        "y": 2438624.9667551983,
+        "name": "delaunay-belleville",
+        "zipCode": "93210",
+        "city": "Saint-Denis",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59894",
+        "x": 600438.7693815591,
+        "y": 2438997.247496207,
+        "name": "cesar",
+        "zipCode": "93430",
+        "city": "Villetaneuse",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59896",
+        "x": 600502.5003249511,
+        "y": 2439398.9554144223,
+        "name": "jean vilar",
+        "zipCode": "93430",
+        "city": "Villetaneuse",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59898",
+        "x": 600553.9841792278,
+        "y": 2439806.450520128,
+        "name": "pablo neruda",
+        "zipCode": "93430",
+        "city": "Villetaneuse",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59900",
+        "x": 600396.556528473,
+        "y": 2440197.684868192,
+        "name": "villetaneuse-universite",
+        "zipCode": "93430",
+        "city": "Villetaneuse",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59902",
+        "x": 600185.483101078,
+        "y": 2438848.0165133746,
+        "name": "blumenthal",
+        "zipCode": "93800",
+        "city": "Épinay-sur-Seine",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59904",
+        "x": 599541.8471413485,
+        "y": 2438983.014365519,
+        "name": "les mobiles",
+        "zipCode": "93800",
+        "city": "Épinay-sur-Seine",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59906",
+        "x": 598856.3622396667,
+        "y": 2439318.9445243627,
+        "name": "les beatus",
+        "zipCode": "93800",
+        "city": "Épinay-sur-Seine",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59908",
+        "x": 598467.1719234324,
+        "y": 2439428.7561129234,
+        "name": "rose bertin (centre commercial l'ilo)",
+        "zipCode": "93800",
+        "city": "Épinay-sur-Seine",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59910",
+        "x": 598161.9015111222,
+        "y": 2439749.6555984155,
+        "name": "lacepede",
+        "zipCode": "93800",
+        "city": "Épinay-sur-Seine",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59912",
+        "x": 597940.3437482066,
+        "y": 2439663.827922063,
+        "name": "gilbert bonnemaison",
+        "zipCode": "93800",
+        "city": "Épinay-sur-Seine",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59914",
+        "x": 597416.2682571745,
+        "y": 2439735.4831012078,
+        "name": "epinay-sur-seine - gare",
+        "zipCode": "93800",
+        "city": "Épinay-sur-Seine",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59916",
+        "x": 596896.1132676817,
+        "y": 2439716.7167565464,
+        "name": "epinay - orgemont",
+        "zipCode": "93800",
+        "city": "Épinay-sur-Seine",
+        "elevator": false
+    }
+]

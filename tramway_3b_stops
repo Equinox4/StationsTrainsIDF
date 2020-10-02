@@ -1,0 +1,236 @@
+[
+    {
+        "id": "stop_area:0:SA:59228",
+        "x": 605315.6032749534,
+        "y": 2427600.328119508,
+        "name": "porte de vincennes",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59491",
+        "x": 605445.3841300204,
+        "y": 2428363.6209748564,
+        "name": "porte de montreuil",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59742",
+        "x": 605370.0279271096,
+        "y": 2428945.4748100294,
+        "name": "marie de miribel",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59435",
+        "x": 605340.1950914327,
+        "y": 2429534.049640003,
+        "name": "porte de bagnolet",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59746",
+        "x": 605317.982268263,
+        "y": 2429902.99187396,
+        "name": "severine",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59748",
+        "x": 605341.7164477715,
+        "y": 2430437.3211666476,
+        "name": "adrienne bolland",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59327",
+        "x": 605230.7031263352,
+        "y": 2430966.411834402,
+        "name": "porte des lilas",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59752",
+        "x": 604748.2428790737,
+        "y": 2431213.4601808577,
+        "name": "hopital robert debre",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59754",
+        "x": 604354.9872502411,
+        "y": 2431854.8409019024,
+        "name": "butte du chapeau rouge",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59756",
+        "x": 604279.1666012481,
+        "y": 2432280.612320143,
+        "name": "porte de pantin - parc de la villette",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59758",
+        "x": 604666.602436122,
+        "y": 2432905.2433750317,
+        "name": "delphine seyrig",
+        "zipCode": "93500",
+        "city": "Pantin",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59760",
+        "x": 604298.4923467763,
+        "y": 2433239.549878488,
+        "name": "ella fitzgerald - grands moulins de pantin",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59762",
+        "x": 603644.892405567,
+        "y": 2433252.2357984167,
+        "name": "porte de la villette - cite des sciences et de l'industrie",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59764",
+        "x": 603214.4646270897,
+        "y": 2433399.5282757874,
+        "name": "canal saint-denis",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8765479",
+        "x": 602694.8460335155,
+        "y": 2433083.7046559323,
+        "name": "gare de rosa parks",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59768",
+        "x": 602447.3987682795,
+        "y": 2433405.6126588783,
+        "name": "porte d'aubervilliers",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59770",
+        "x": 602031.5998224762,
+        "y": 2433373.186731637,
+        "name": "colette besson",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59513",
+        "x": 601656.890412132,
+        "y": 2433299.0757177174,
+        "name": "porte de la chapelle",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59922",
+        "x": 601131.5297778714,
+        "y": 2433368.4976142743,
+        "name": "diane arbus - porte des poissonniers",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59924",
+        "x": 600609.1230414402,
+        "y": 2433367.088494944,
+        "name": "porte de clignancourt - puces de saint-ouen",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59926",
+        "x": 600088.1839168465,
+        "y": 2433256.6818660116,
+        "name": "angelique compoint - porte de montmartre",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59526",
+        "x": 599519.8415419472,
+        "y": 2433254.258651914,
+        "name": "porte de saint-ouen",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59930",
+        "x": 599161.0794545638,
+        "y": 2433141.363890876,
+        "name": "epinettes - pouchet",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59932",
+        "x": 598768.9891277902,
+        "y": 2433001.015186252,
+        "name": "honore de balzac",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8711127",
+        "x": 598325.970023689,
+        "y": 2432886.1891345247,
+        "name": "porte de clichy",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59936",
+        "x": 597568.0918932173,
+        "y": 2432396.8794343784,
+        "name": "porte d'asnieres - marguerite long",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    }
+]

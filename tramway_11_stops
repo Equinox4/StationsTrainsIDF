@@ -1,0 +1,65 @@
+[
+    {
+        "id": "stop_area:0:SA:8727114",
+        "x": 597442.0896605565,
+        "y": 2439632.763970914,
+        "name": "gare d'epinay sur seine",
+        "zipCode": "93800",
+        "city": "Épinay-sur-Seine",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727112",
+        "x": 599380.2937396531,
+        "y": 2440044.709844474,
+        "name": "gare d'épinay - villetaneuse",
+        "zipCode": "95170",
+        "city": "Deuil-la-Barre",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59900",
+        "x": 600396.556528473,
+        "y": 2440197.684868192,
+        "name": "villetaneuse-universite",
+        "zipCode": "93430",
+        "city": "Villetaneuse",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727116",
+        "x": 602467.4840027033,
+        "y": 2440447.883631776,
+        "name": "gare de pierrefitte stains",
+        "zipCode": "93380",
+        "city": "Pierrefitte-sur-Seine",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8769733",
+        "x": 604070.001690215,
+        "y": 2439608.5337139457,
+        "name": "gare de stains la cerisaie",
+        "zipCode": "93240",
+        "city": "Stains",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8769734",
+        "x": 605538.4819555082,
+        "y": 2438397.514246109,
+        "name": "gare de dugny - la courneuve",
+        "zipCode": "93120",
+        "city": "La Courneuve",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727139",
+        "x": 606535.7401794051,
+        "y": 2436988.7086873134,
+        "name": "gare du bourget",
+        "zipCode": "93700",
+        "city": "Drancy",
+        "elevator": true
+    }
+]

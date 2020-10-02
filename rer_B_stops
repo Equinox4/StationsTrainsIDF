@@ -1,0 +1,434 @@
+[
+    {
+        "id": "stop_area:0:SA:8700147",
+        "x": 617236.5377273465,
+        "y": 2445140.0364239104,
+        "name": "Aéroport Charles-de-Gaulle 2 TGV",
+        "zipCode": "77990",
+        "city": "Le Mesnil-Amelot",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8716479",
+        "x": 601875.6689569057,
+        "y": 2435583.3156879996,
+        "name": "La Plaine – Stade de France",
+        "zipCode": "93210",
+        "city": "Saint-Denis",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727100",
+        "x": 601459.4547719109,
+        "y": 2431262.349002038,
+        "name": "Gare du Nord",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727130",
+        "x": 603528.1891330759,
+        "y": 2436145.3325095116,
+        "name": "La Courneuve – Aubervilliers",
+        "zipCode": "93120",
+        "city": "La Courneuve",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727139",
+        "x": 606535.7401794051,
+        "y": 2436988.7086873134,
+        "name": "Le Bourget",
+        "zipCode": "93700",
+        "city": "Drancy",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727140",
+        "x": 608661.0969967968,
+        "y": 2437225.1653262097,
+        "name": "Drancy",
+        "zipCode": "93700",
+        "city": "Drancy",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727141",
+        "x": 611627.0574415971,
+        "y": 2437139.3365776925,
+        "name": "Aulnay-sous-Bois",
+        "zipCode": "93600",
+        "city": "Aulnay-sous-Bois",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727142",
+        "x": 614527.8445681458,
+        "y": 2437527.450499259,
+        "name": "Sevran – Livry",
+        "zipCode": "93270",
+        "city": "Sevran",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727143",
+        "x": 616934.2344951729,
+        "y": 2438571.633517916,
+        "name": "Vert-Galant",
+        "zipCode": "93290",
+        "city": "Tremblay-en-France",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727144",
+        "x": 613759.6705478211,
+        "y": 2438777.967568153,
+        "name": "Sevran – Beaudottes",
+        "zipCode": "93270",
+        "city": "Sevran",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727145",
+        "x": 612845.145492367,
+        "y": 2440548.710687932,
+        "name": "Villepinte",
+        "zipCode": "93420",
+        "city": "Villepinte",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727146",
+        "x": 616319.9401286666,
+        "y": 2445832.099424513,
+        "name": "Aéroport Charles-de-Gaulle 1",
+        "zipCode": "93290",
+        "city": "Tremblay-en-France",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727147",
+        "x": 610343.3643430206,
+        "y": 2437163.384720394,
+        "name": "Le Blanc-Mesnil",
+        "zipCode": "93150",
+        "city": "Le Blanc-Mesnil",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727148",
+        "x": 612993.7065518326,
+        "y": 2441769.0844527604,
+        "name": "Parc des Expositions",
+        "zipCode": "93420",
+        "city": "Villepinte",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727151",
+        "x": 619494.5883232024,
+        "y": 2439490.0501447027,
+        "name": "Villeparisis – Mitry-le-Neuf",
+        "zipCode": "77290",
+        "city": "Mitry-Mory",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8727152",
+        "x": 622457.0008302047,
+        "y": 2442005.661358394,
+        "name": "Mitry – Claye",
+        "zipCode": "77290",
+        "city": "Mitry-Mory",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8711300",
+        "x": 601580.864994222,
+        "y": 2430886.40385613,
+        "name": "Gare de l'Est",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8775860",
+        "x": 600769.9980888247,
+        "y": 2429276.982973776,
+        "name": "Châtelet – Les Halles",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775861",
+        "x": 600372.409113443,
+        "y": 2427605.171685061,
+        "name": "Luxembourg",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775862",
+        "x": 600062.0747354954,
+        "y": 2426825.415886029,
+        "name": "Port-Royal",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775863",
+        "x": 599713.2482058562,
+        "y": 2426188.658070864,
+        "name": "Denfert-Rochereau",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775864",
+        "x": 600250.9708105423,
+        "y": 2424771.038182986,
+        "name": "Cité Universitaire",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775865",
+        "x": 600330.2771704784,
+        "y": 2424114.0331094875,
+        "name": "Gentilly",
+        "zipCode": "94250",
+        "city": "Gentilly",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775866",
+        "x": 599802.3663903412,
+        "y": 2423284.1253967728,
+        "name": "Laplace",
+        "zipCode": "94110",
+        "city": "Arcueil",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775867",
+        "x": 599285.4500057665,
+        "y": 2422259.4506858787,
+        "name": "Arcueil – Cachan",
+        "zipCode": "94110",
+        "city": "Arcueil",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775868",
+        "x": 598850.9961206533,
+        "y": 2421655.154725283,
+        "name": "Bagneux",
+        "zipCode": "92220",
+        "city": "Bagneux",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775869",
+        "x": 598295.4697164241,
+        "y": 2420180.987538532,
+        "name": "Bourg-la-Reine",
+        "zipCode": "92340",
+        "city": "Bourg-la-Reine",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775870",
+        "x": 597109.0047909239,
+        "y": 2420331.003608091,
+        "name": "Sceaux",
+        "zipCode": "92330",
+        "city": "Sceaux",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775871",
+        "x": 596796.6974744879,
+        "y": 2421048.353760091,
+        "name": "Fontenay-aux-Roses",
+        "zipCode": "92260",
+        "city": "Fontenay-aux-Roses",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775872",
+        "x": 595945.7374801408,
+        "y": 2420136.6753198965,
+        "name": "Robinson",
+        "zipCode": "92290",
+        "city": "Châtenay-Malabry",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8775873",
+        "x": 598176.016987432,
+        "y": 2419149.2066814303,
+        "name": "Parc de Sceaux",
+        "zipCode": "92160",
+        "city": "Antony",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775874",
+        "x": 597620.0902965114,
+        "y": 2418228.74996828,
+        "name": "La Croix de Berny",
+        "zipCode": "92160",
+        "city": "Antony",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8775875",
+        "x": 597407.8105884845,
+        "y": 2417419.665054081,
+        "name": "Antony",
+        "zipCode": "92160",
+        "city": "Antony",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775876",
+        "x": 597072.9027546359,
+        "y": 2416052.590957157,
+        "name": "Fontaine-Michalon",
+        "zipCode": "92160",
+        "city": "Antony",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775877",
+        "x": 596450.2303577577,
+        "y": 2415660.878283541,
+        "name": "Baconnets",
+        "zipCode": "92160",
+        "city": "Antony",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738328",
+        "x": 595332.0073836155,
+        "y": 2415122.203097169,
+        "name": "Massy – Verrières",
+        "zipCode": "91300",
+        "city": "Massy",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8739357",
+        "x": 594253.4310397294,
+        "y": 2414033.549337536,
+        "name": "Massy – Palaiseau",
+        "zipCode": "91300",
+        "city": "Massy",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775880",
+        "x": 593508.3898075161,
+        "y": 2413265.352227664,
+        "name": "Palaiseau",
+        "zipCode": "91120",
+        "city": "Palaiseau",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775881",
+        "x": 592739.5556352203,
+        "y": 2412062.172023522,
+        "name": "Palaiseau – Villebon",
+        "zipCode": "91120",
+        "city": "Palaiseau",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775882",
+        "x": 590812.7624074895,
+        "y": 2411940.546843172,
+        "name": "Lozère",
+        "zipCode": "91120",
+        "city": "Palaiseau",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775883",
+        "x": 589291.2699730907,
+        "y": 2411987.121609773,
+        "name": "Le Guichet",
+        "zipCode": "91400",
+        "city": "Orsay",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775884",
+        "x": 588593.8690481356,
+        "y": 2411049.483942043,
+        "name": "Orsay – Ville",
+        "zipCode": "91400",
+        "city": "Orsay",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775885",
+        "x": 587252.3526464715,
+        "y": 2410856.1568994396,
+        "name": "Bures-sur-Yvette",
+        "zipCode": "91440",
+        "city": "Bures-sur-Yvette",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775886",
+        "x": 586497.9902164122,
+        "y": 2410706.0145267025,
+        "name": "La Hacquiniere",
+        "zipCode": "91440",
+        "city": "Bures-sur-Yvette",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775887",
+        "x": 585299.8648113696,
+        "y": 2411059.168297802,
+        "name": "Gif-sur-Yvette",
+        "zipCode": "91190",
+        "city": "Gif-sur-Yvette",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775888",
+        "x": 582492.6974629083,
+        "y": 2411347.8076888085,
+        "name": "Courcelle-sur-Yvette",
+        "zipCode": "91190",
+        "city": "Gif-sur-Yvette",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8775889",
+        "x": 580393.7905755896,
+        "y": 2411643.81592064,
+        "name": "Saint-Rémy-lès-Chevreuse",
+        "zipCode": "78470",
+        "city": "Saint-Rémy-lès-Chevreuse",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8754731",
+        "x": 600600.2177051743,
+        "y": 2428234.953414701,
+        "name": "Saint-Michel – Notre-Dame",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    }
+]

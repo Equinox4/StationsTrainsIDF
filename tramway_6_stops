@@ -1,0 +1,191 @@
+[
+    {
+        "id": "stop_area:0:SA:59847",
+        "x": 597287.5441105382,
+        "y": 2423584.968342449,
+        "name": "chatillon - montrouge",
+        "zipCode": "92320",
+        "city": "Châtillon",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59848",
+        "x": 596868.3137924172,
+        "y": 2423197.9918624605,
+        "name": "vauban",
+        "zipCode": "92320",
+        "city": "Châtillon",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59850",
+        "x": 596480.3021896373,
+        "y": 2422874.3354100427,
+        "name": "centre de chatillon",
+        "zipCode": "92320",
+        "city": "Châtillon",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59852",
+        "x": 596109.3570692334,
+        "y": 2422420.629349004,
+        "name": "parc andre malraux",
+        "zipCode": "92320",
+        "city": "Châtillon",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59854",
+        "x": 595326.5285904993,
+        "y": 2421826.5256993333,
+        "name": "division leclerc",
+        "zipCode": "92320",
+        "city": "Châtillon",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59856",
+        "x": 594627.6354198555,
+        "y": 2421382.7641343297,
+        "name": "soleil levant",
+        "zipCode": "92140",
+        "city": "Clamart",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59858",
+        "x": 593996.4215771802,
+        "y": 2420940.574697579,
+        "name": "hopital beclere",
+        "zipCode": "92140",
+        "city": "Clamart",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59860",
+        "x": 593359.2358543151,
+        "y": 2420631.1956487,
+        "name": "mail de la plaine",
+        "zipCode": "92140",
+        "city": "Clamart",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59862",
+        "x": 592869.6774058284,
+        "y": 2420245.600304602,
+        "name": "pave blanc (parc noveos)",
+        "zipCode": "92140",
+        "city": "Clamart",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59864",
+        "x": 592712.0168239978,
+        "y": 2420754.2567023067,
+        "name": "georges pompidou",
+        "zipCode": "92140",
+        "city": "Clamart",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59866",
+        "x": 592228.8082077965,
+        "y": 2420575.4282820374,
+        "name": "georges millandy",
+        "zipCode": "92140",
+        "city": "Clamart",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59868",
+        "x": 591960.2393844315,
+        "y": 2420586.5904591773,
+        "name": "meudon-la-foret",
+        "zipCode": "92140",
+        "city": "Clamart",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59870",
+        "x": 591348.4235372454,
+        "y": 2420719.211862289,
+        "name": "velizy 2",
+        "zipCode": "92190",
+        "city": "Meudon",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59872",
+        "x": 591025.7640272786,
+        "y": 2420597.877104426,
+        "name": "dewoitine",
+        "zipCode": "78140",
+        "city": "Vélizy-Villacoublay",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59874",
+        "x": 590641.8565879586,
+        "y": 2420348.8221508344,
+        "name": "inovel parc nord",
+        "zipCode": "78140",
+        "city": "Vélizy-Villacoublay",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59876",
+        "x": 589677.259573726,
+        "y": 2420189.3694274463,
+        "name": "louvois",
+        "zipCode": "78140",
+        "city": "Vélizy-Villacoublay",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59878",
+        "x": 589321.591016824,
+        "y": 2420264.7856756602,
+        "name": "mairie de velizy",
+        "zipCode": "78140",
+        "city": "Vélizy-Villacoublay",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59880",
+        "x": 588527.734378438,
+        "y": 2420390.3694643416,
+        "name": "l'onde (maison des arts)",
+        "zipCode": "78140",
+        "city": "Vélizy-Villacoublay",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59882",
+        "x": 588406.9823480053,
+        "y": 2420781.246164417,
+        "name": "robert wagner",
+        "zipCode": "78140",
+        "city": "Vélizy-Villacoublay",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8739321",
+        "x": 587797.4139428625,
+        "y": 2422618.537844049,
+        "name": "gare de viroflay rive gauche",
+        "zipCode": "78220",
+        "city": "Viroflay",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738288",
+        "x": 587675.995643551,
+        "y": 2422996.419953732,
+        "name": "gare de viroflay rive droite",
+        "zipCode": "78220",
+        "city": "Viroflay",
+        "elevator": true
+    }
+]

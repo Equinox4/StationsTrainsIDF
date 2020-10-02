@@ -1,0 +1,371 @@
+[
+    {
+        "id": "stop_area:0:SA:8733448",
+        "x": 581191.5775337614,
+        "y": 2446316.3171685985,
+        "name": "gare de neuville université",
+        "zipCode": "95000",
+        "city": "Neuville-sur-Oise",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8736692",
+        "x": 580487.4893136303,
+        "y": 2433093.1559061445,
+        "name": "gare de saint-germain-en-laye  bel air - fourqueux",
+        "zipCode": "78100",
+        "city": "Saint-Germain-en-Laye",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738111",
+        "x": 598399.7824976715,
+        "y": 2432135.54276493,
+        "name": "gare de pont cardinet",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738112",
+        "x": 597128.8737065593,
+        "y": 2433114.9983681035,
+        "name": "gare de clichy - levallois",
+        "zipCode": "92110",
+        "city": "Clichy",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738113",
+        "x": 596089.4691159185,
+        "y": 2434220.0911869756,
+        "name": "gare d'asnières-sur-seine",
+        "zipCode": "92600",
+        "city": "Asnières-sur-Seine",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738145",
+        "x": 580832.590581646,
+        "y": 2443459.0409315745,
+        "name": "gare de conflans fin d'oise",
+        "zipCode": "78700",
+        "city": "Conflans-Sainte-Honorine",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738165",
+        "x": 580997.8159831698,
+        "y": 2441337.7468046634,
+        "name": "gare d'achères ville",
+        "zipCode": "78260",
+        "city": "Achères",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738190",
+        "x": 581282.0233635325,
+        "y": 2448707.489155128,
+        "name": "gare de cergy préfecture",
+        "zipCode": "95800",
+        "city": "Cergy",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738200",
+        "x": 595012.3239277194,
+        "y": 2433979.029659312,
+        "name": "gare de bécon les bruyères",
+        "zipCode": "92400",
+        "city": "Courbevoie",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738220",
+        "x": 593475.3060496915,
+        "y": 2433304.0536157857,
+        "name": "gare de courbevoie",
+        "zipCode": "92400",
+        "city": "Courbevoie",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738221",
+        "x": 592866.1041352616,
+        "y": 2432597.2147585447,
+        "name": "gare de la défense (grande arche)",
+        "zipCode": "92400",
+        "city": "Courbevoie",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738225",
+        "x": 588960.8546394568,
+        "y": 2426727.7040648656,
+        "name": "gare de garches - marnes-la-coquette",
+        "zipCode": "92380",
+        "city": "Garches",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738226",
+        "x": 586486.4542604631,
+        "y": 2426542.1700121164,
+        "name": "gare de vaucresson",
+        "zipCode": "92420",
+        "city": "Vaucresson",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738233",
+        "x": 589068.2340438564,
+        "y": 2423716.5871166354,
+        "name": "gare de chaville rive droite",
+        "zipCode": "92370",
+        "city": "Chaville",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738234",
+        "x": 590004.8491499764,
+        "y": 2425352.677005237,
+        "name": "gare de sèvres - ville-d'avray",
+        "zipCode": "92310",
+        "city": "Sèvres",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738235",
+        "x": 591275.2771656895,
+        "y": 2427443.6066358224,
+        "name": "gare de saint-cloud",
+        "zipCode": "92210",
+        "city": "Saint-Cloud",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738236",
+        "x": 591050.2101419774,
+        "y": 2428866.602610226,
+        "name": "gare de le val d'or",
+        "zipCode": "92210",
+        "city": "Saint-Cloud",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738237",
+        "x": 591639.2918228299,
+        "y": 2430354.9154606024,
+        "name": "gare de suresnes mont-valérien",
+        "zipCode": "92150",
+        "city": "Suresnes",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738238",
+        "x": 592444.6464365202,
+        "y": 2431698.0312541784,
+        "name": "gare de puteaux",
+        "zipCode": "92800",
+        "city": "Puteaux",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738243",
+        "x": 585434.4448454281,
+        "y": 2427207.87994494,
+        "name": "gare de la celle-saint-cloud",
+        "zipCode": "78170",
+        "city": "La Celle-Saint-Cloud",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738244",
+        "x": 584950.2260727921,
+        "y": 2428460.3145394525,
+        "name": "gare de bougival",
+        "zipCode": "78380",
+        "city": "Bougival",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738245",
+        "x": 584307.7038279019,
+        "y": 2429219.092630458,
+        "name": "gare de louveciennes",
+        "zipCode": "78430",
+        "city": "Louveciennes",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738246",
+        "x": 582435.4054137481,
+        "y": 2430373.1242178096,
+        "name": "gare de marly-le-roi",
+        "zipCode": "78160",
+        "city": "Marly-le-Roi",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738247",
+        "x": 580935.9652066927,
+        "y": 2430013.049849306,
+        "name": "gare de l'étang-la-ville",
+        "zipCode": "78620",
+        "city": "L'Étang-la-Ville",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738248",
+        "x": 579042.0170816262,
+        "y": 2429986.0339228055,
+        "name": "gare de saint-nom-la-brétèche forêt de marly",
+        "zipCode": "78620",
+        "city": "L'Étang-la-Ville",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738249",
+        "x": 577909.4932769237,
+        "y": 2450237.411527169,
+        "name": "gare de cergy saint-christophe",
+        "zipCode": "95800",
+        "city": "Cergy",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738265",
+        "x": 576161.353818476,
+        "y": 2449996.9121929174,
+        "name": "gare de cergy le haut",
+        "zipCode": "95800",
+        "city": "Cergy",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738280",
+        "x": 580764.3834438625,
+        "y": 2433864.109804818,
+        "name": "gare de saint-germain-en-laye grande ceinture",
+        "zipCode": "78100",
+        "city": "Saint-Germain-en-Laye",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738281",
+        "x": 581138.3604357783,
+        "y": 2431473.340991226,
+        "name": "gare de mareil-marly",
+        "zipCode": "78750",
+        "city": "Mareil-Marly",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8738286",
+        "x": 585106.2367015941,
+        "y": 2423375.6726256185,
+        "name": "gare de versailles rive droite",
+        "zipCode": "78000",
+        "city": "Versailles",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738287",
+        "x": 586401.1414577675,
+        "y": 2423169.857677653,
+        "name": "gare de montreuil",
+        "zipCode": "78000",
+        "city": "Versailles",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738288",
+        "x": 587675.995643551,
+        "y": 2422996.419953732,
+        "name": "gare de viroflay rive droite",
+        "zipCode": "78220",
+        "city": "Viroflay",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738400",
+        "x": 599148.8982043851,
+        "y": 2430788.134599064,
+        "name": "gare saint-lazare",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738600",
+        "x": 592717.2174414826,
+        "y": 2434602.0530277765,
+        "name": "gare de la garenne colombes",
+        "zipCode": "92700",
+        "city": "Colombes",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738630",
+        "x": 594238.352576,
+        "y": 2435126.298371976,
+        "name": "gare des vallées",
+        "zipCode": "92700",
+        "city": "Colombes",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738631",
+        "x": 591015.5247979985,
+        "y": 2433623.1707861503,
+        "name": "gare de nanterre université",
+        "zipCode": "92000",
+        "city": "Nanterre",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738640",
+        "x": 588924.2168593906,
+        "y": 2435747.4426921187,
+        "name": "gare de houilles - carrières-sur-seine",
+        "zipCode": "78800",
+        "city": "Houilles",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738641",
+        "x": 586910.3707897906,
+        "y": 2437733.2399358316,
+        "name": "gare de sartrouville",
+        "zipCode": "78500",
+        "city": "Sartrouville",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738642",
+        "x": 585897.2250132383,
+        "y": 2438636.631054265,
+        "name": "gare de maisons-laffitte",
+        "zipCode": "78600",
+        "city": "Maisons-Laffitte",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8738657",
+        "x": 578322.2585004659,
+        "y": 2437260.3895062488,
+        "name": "gare de poissy",
+        "zipCode": "78300",
+        "city": "Poissy",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:8739387",
+        "x": 579832.0548436877,
+        "y": 2427087.4868302867,
+        "name": "gare de noisy-le-roi",
+        "zipCode": "78590",
+        "city": "Noisy-le-Roi",
+        "elevator": true
+    }
+]

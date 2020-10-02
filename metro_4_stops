@@ -1,0 +1,245 @@
+[
+    {
+        "id": "stop_area:0:SA:59208",
+        "x": 600731.9674268323,
+        "y": 2429298.0078409445,
+        "name": "les halles",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59214",
+        "x": 601607.6427862728,
+        "y": 2430926.022509966,
+        "name": "gare de l'est (verdun)",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59251",
+        "x": 599573.2177657476,
+        "y": 2426716.5076186126,
+        "name": "raspail",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59252",
+        "x": 601007.9000649191,
+        "y": 2432575.4547463763,
+        "name": "marcadet-poissonniers",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59253",
+        "x": 601299.6467192725,
+        "y": 2430095.6663337755,
+        "name": "strasbourg-saint-denis",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59254",
+        "x": 599460.587517442,
+        "y": 2427066.557859603,
+        "name": "vavin",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59255",
+        "x": 600535.8110963333,
+        "y": 2428371.0261997306,
+        "name": "saint-michel",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59256",
+        "x": 599263.0254343663,
+        "y": 2427571.9488595068,
+        "name": "saint-placide",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59257",
+        "x": 599632.8113874443,
+        "y": 2428115.3320742734,
+        "name": "saint-sulpice",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59258",
+        "x": 600548.9724751816,
+        "y": 2433298.985621332,
+        "name": "porte de clignancourt",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59259",
+        "x": 599031.9426449261,
+        "y": 2427257.882847387,
+        "name": "montparnasse-bienvenue",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59260",
+        "x": 599534.7337566951,
+        "y": 2425920.524326549,
+        "name": "mouton-duvernet",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59261",
+        "x": 600936.613702463,
+        "y": 2429493.197882923,
+        "name": "etienne marcel",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8727100",
+        "x": 601459.4547719109,
+        "y": 2431262.349002038,
+        "name": "gare du nord",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59546",
+        "x": 599861.2566740969,
+        "y": 2426221.02916908,
+        "name": "denfert-rochereau",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59622",
+        "x": 600693.8419270699,
+        "y": 2432827.7711952734,
+        "name": "simplon",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59623",
+        "x": 599777.0355850518,
+        "y": 2428344.86529141,
+        "name": "saint-germain des prés",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59624",
+        "x": 599186.4699227355,
+        "y": 2424890.7082596966,
+        "name": "porte d'orléans (général leclerc)",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59586",
+        "x": 601154.8119826022,
+        "y": 2429765.3950146134,
+        "name": "réaumur-sébastopol",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59263",
+        "x": 600159.5104743022,
+        "y": 2428224.6921168696,
+        "name": "odéon",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59566",
+        "x": 600814.0276090225,
+        "y": 2428860.183239779,
+        "name": "châtelet",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59628",
+        "x": 600740.7156111444,
+        "y": 2428579.2261569323,
+        "name": "cité",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59629",
+        "x": 600898.4235558527,
+        "y": 2432116.0060979836,
+        "name": "château rouge",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59630",
+        "x": 601462.2982714508,
+        "y": 2430436.2943248143,
+        "name": "château d'eau",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59631",
+        "x": 599291.5402009893,
+        "y": 2425515.7726582317,
+        "name": "alésia",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59632",
+        "x": 600949.7023867647,
+        "y": 2431720.118339994,
+        "name": "barbès-rochechouart",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59776",
+        "x": 598829.3204685419,
+        "y": 2424473.202057175,
+        "name": "mairie de montrouge",
+        "zipCode": "92120",
+        "city": "Montrouge",
+        "elevator": true
+    }
+]

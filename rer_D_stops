@@ -1,0 +1,551 @@
+[
+    {
+        "city": "Saint-Denis",
+        "elevator": true,
+        "id": "stop_area:0:SA:8716478",
+        "name": "gare de stade de france st denis",
+        "x": 601179.3237379256,
+        "y": 2435442.1560630696,
+        "zipCode": "93210"
+    },
+    {
+        "city": "Saint-Denis",
+        "elevator": true,
+        "id": "stop_area:0:SA:8716479",
+        "name": "gare de la plaine stade de france",
+        "x": 601875.6689569057,
+        "y": 2435583.3156879996,
+        "zipCode": "93210"
+    },
+    {
+        "city": "Paris",
+        "elevator": true,
+        "id": "stop_area:0:SA:8727100",
+        "name": "gare du nord",
+        "x": 601459.4547719109,
+        "y": 2431262.349002038,
+        "zipCode": "75000"
+    },
+    {
+        "city": "Saint-Denis",
+        "elevator": false,
+        "id": "stop_area:0:SA:8727101",
+        "name": "gare de saint-denis",
+        "x": 600691.7154649211,
+        "y": 2437463.9094222463,
+        "zipCode": "93210"
+    },
+    {
+        "city": "Pierrefitte-sur-Seine",
+        "elevator": true,
+        "id": "stop_area:0:SA:8727116",
+        "name": "gare de pierrefitte stains",
+        "x": 602467.4840027033,
+        "y": 2440447.883631776,
+        "zipCode": "93380"
+    },
+    {
+        "city": "Creil",
+        "elevator": false,
+        "id": "stop_area:0:SA:8727600",
+        "name": "gare de creil",
+        "x": 609657.0142424133,
+        "y": 2474053.052024942,
+        "zipCode": "60100"
+    },
+    {
+        "city": "Chantilly",
+        "elevator": false,
+        "id": "stop_area:0:SA:8727611",
+        "name": "gare de chantilly gouvieux",
+        "x": 608977.9913532016,
+        "y": 2465467.9830976785,
+        "zipCode": "60500"
+    },
+    {
+        "city": "Garges-lès-Gonesse",
+        "elevator": true,
+        "id": "stop_area:0:SA:8727619",
+        "name": "gare de garges sarcelles",
+        "x": 603967.6647878699,
+        "y": 2442032.5116755655,
+        "zipCode": "95140"
+    },
+    {
+        "city": "Arnouville",
+        "elevator": false,
+        "id": "stop_area:0:SA:8727622",
+        "name": "gare de villiers le bel gonesse arnouville",
+        "x": 605959.5340476931,
+        "y": 2444011.5167045975,
+        "zipCode": "95400"
+    },
+    {
+        "city": "Goussainville",
+        "elevator": false,
+        "id": "stop_area:0:SA:8727623",
+        "name": "gare des noues",
+        "x": 610280.3404389712,
+        "y": 2448282.3137462367,
+        "zipCode": "95190"
+    },
+    {
+        "city": "Goussainville",
+        "elevator": false,
+        "id": "stop_area:0:SA:8727624",
+        "name": "gare de goussainville",
+        "x": 609228.5757436616,
+        "y": 2447313.605138831,
+        "zipCode": "95190"
+    },
+    {
+        "city": "Louvres",
+        "elevator": true,
+        "id": "stop_area:0:SA:8727625",
+        "name": "gare de louvres",
+        "x": 612072.7163341938,
+        "y": 2450159.022811905,
+        "zipCode": "95380"
+    },
+    {
+        "city": "Fosses",
+        "elevator": true,
+        "id": "stop_area:0:SA:8727626",
+        "name": "gare de survilliers fosses",
+        "x": 613796.3299941225,
+        "y": 2455744.7214905056,
+        "zipCode": "95470"
+    },
+    {
+        "city": "Orry-la-Ville",
+        "elevator": false,
+        "id": "stop_area:0:SA:8727627",
+        "name": "gare d'orry la ville coye la foret",
+        "x": 611179.0362152711,
+        "y": 2460100.0179433646,
+        "zipCode": "60560"
+    },
+    {
+        "city": "Orry-la-Ville",
+        "elevator": false,
+        "id": "stop_area:0:SA:8727628",
+        "name": "gare de la borne blanche",
+        "x": 612500.9999031039,
+        "y": 2458661.043268642,
+        "zipCode": "60560"
+    },
+    {
+        "city": "Juvisy-sur-Orge",
+        "elevator": true,
+        "id": "stop_area:0:SA:8754524",
+        "name": "gare de juvisy",
+        "x": 603453.1872723455,
+        "y": 2410144.4447682505,
+        "zipCode": "91260"
+    },
+    {
+        "city": "Créteil",
+        "elevator": true,
+        "id": "stop_area:0:SA:8760880",
+        "name": "gare de creteil pompadour",
+        "x": 607251.0127908502,
+        "y": 2419375.676354023,
+        "zipCode": "94000"
+    },
+    {
+        "city": "Corbeil-Essonnes",
+        "elevator": true,
+        "id": "stop_area:0:SA:8768100",
+        "name": "gare de corbeil essonnes",
+        "x": 610068.6423718889,
+        "y": 2401687.6247413694,
+        "zipCode": "91100"
+    },
+    {
+        "city": "Alfortville",
+        "elevator": true,
+        "id": "stop_area:0:SA:8768115",
+        "name": "gare de maisons alfort alfortville",
+        "x": 606663.6674251449,
+        "y": 2422512.1827467964,
+        "zipCode": "94140"
+    },
+    {
+        "city": "Maisons-Alfort",
+        "elevator": false,
+        "id": "stop_area:0:SA:8768124",
+        "name": "gare du vert de maisons",
+        "x": 607205.4066857414,
+        "y": 2421286.619240266,
+        "zipCode": "94700"
+    },
+    {
+        "city": "Vigneux-sur-Seine",
+        "elevator": false,
+        "id": "stop_area:0:SA:8768130",
+        "name": "gare de vigneux sur seine",
+        "x": 605784.0092739378,
+        "y": 2412206.683031491,
+        "zipCode": "91270"
+    },
+    {
+        "city": "Viry-Châtillon",
+        "elevator": false,
+        "id": "stop_area:0:SA:8768131",
+        "name": "gare de viry chatillon",
+        "x": 603606.5988424799,
+        "y": 2408609.157044686,
+        "zipCode": "91170"
+    },
+    {
+        "city": "Ris-Orangis",
+        "elevator": false,
+        "id": "stop_area:0:SA:8768133",
+        "name": "gare de ris orangis",
+        "x": 605741.3148027662,
+        "y": 2406719.719669171,
+        "zipCode": "91130"
+    },
+    {
+        "city": "Ris-Orangis",
+        "elevator": false,
+        "id": "stop_area:0:SA:8768134",
+        "name": "gare d'orangis bois de l epine",
+        "x": 605239.4377115585,
+        "y": 2404221.8326639477,
+        "zipCode": "91130"
+    },
+    {
+        "city": "Ris-Orangis",
+        "elevator": false,
+        "id": "stop_area:0:SA:8768135",
+        "name": "gare de grand bourg",
+        "x": 607278.5003920386,
+        "y": 2405527.508805088,
+        "zipCode": "91130"
+    },
+    {
+        "city": "Évry",
+        "elevator": false,
+        "id": "stop_area:0:SA:8768136",
+        "name": "gare d'evry",
+        "x": 608543.1516262613,
+        "y": 2403928.58805363,
+        "zipCode": "91000"
+    },
+    {
+        "city": "Grigny",
+        "elevator": true,
+        "id": "stop_area:0:SA:8768137",
+        "name": "gare de grigny centre",
+        "x": 604321.587699086,
+        "y": 2406064.577684727,
+        "zipCode": "91350"
+    },
+    {
+        "city": "Évry",
+        "elevator": true,
+        "id": "stop_area:0:SA:8768138",
+        "name": "gare d'evry courcouronnes",
+        "x": 606775.0866559196,
+        "y": 2402991.7936234167,
+        "zipCode": "91000"
+    },
+    {
+        "city": "Évry",
+        "elevator": false,
+        "id": "stop_area:0:SA:8768139",
+        "name": "gare du bras de fer",
+        "x": 608438.4345037162,
+        "y": 2402764.125333305,
+        "zipCode": "91000"
+    },
+    {
+        "city": "Corbeil-Essonnes",
+        "elevator": false,
+        "id": "stop_area:0:SA:8768140",
+        "name": "gare de moulin galant",
+        "x": 610072.0099026598,
+        "y": 2398626.957167257,
+        "zipCode": "91100"
+    },
+    {
+        "city": "Mennecy",
+        "elevator": false,
+        "id": "stop_area:0:SA:8768141",
+        "name": "gare de mennecy",
+        "x": 607150.2484079449,
+        "y": 2396956.4524323754,
+        "zipCode": "91540"
+    },
+    {
+        "city": "Ballancourt-sur-Essonne",
+        "elevator": false,
+        "id": "stop_area:0:SA:8768143",
+        "name": "gare de ballancourt",
+        "x": 602586.0089026883,
+        "y": 2392606.607572989,
+        "zipCode": "91610"
+    },
+    {
+        "city": "La Ferté-Alais",
+        "elevator": false,
+        "id": "stop_area:0:SA:8768145",
+        "name": "gare de la ferte alais",
+        "x": 601061.9699183345,
+        "y": 2387302.0216468824,
+        "zipCode": "91590"
+    },
+    {
+        "city": "Boutigny-sur-Essonne",
+        "elevator": false,
+        "id": "stop_area:0:SA:8768147",
+        "name": "gare de boutigny",
+        "x": 602969.9828077093,
+        "y": 2381806.2884291266,
+        "zipCode": "91820"
+    },
+    {
+        "city": "Maisse",
+        "elevator": false,
+        "id": "stop_area:0:SA:8768148",
+        "name": "gare de maisse",
+        "x": 604224.3179950336,
+        "y": 2377107.0298412736,
+        "zipCode": "91720"
+    },
+    {
+        "city": "Buno-Bonnevaux",
+        "elevator": false,
+        "id": "stop_area:0:SA:8768151",
+        "name": "gare de buno gironville",
+        "x": 603754.7655793163,
+        "y": 2374504.544520637,
+        "zipCode": "91720"
+    },
+    {
+        "city": "Corbeil-Essonnes",
+        "elevator": false,
+        "id": "stop_area:0:SA:8768160",
+        "name": "gare d'essonnes robinson",
+        "x": 609447.6713472408,
+        "y": 2400788.946338912,
+        "zipCode": "91100"
+    },
+    {
+        "city": "Villabé",
+        "elevator": false,
+        "id": "stop_area:0:SA:8768161",
+        "name": "gare de villabe",
+        "x": 609174.3864118073,
+        "y": 2399392.8359831613,
+        "zipCode": "91100"
+    },
+    {
+        "city": "Le Coudray-Montceaux",
+        "elevator": false,
+        "id": "stop_area:0:SA:8768162",
+        "name": "gare du plessis chenet",
+        "x": 610564.9808483821,
+        "y": 2397181.002940555,
+        "zipCode": "91830"
+    },
+    {
+        "city": "Le Coudray-Montceaux",
+        "elevator": false,
+        "id": "stop_area:0:SA:8768163",
+        "name": "gare de coudray montceaux",
+        "x": 611522.0352924798,
+        "y": 2396421.4736223044,
+        "zipCode": "91830"
+    },
+    {
+        "city": "Villeneuve-Saint-Georges",
+        "elevator": false,
+        "id": "stop_area:0:SA:8768180",
+        "name": "gare de villeneuve triage",
+        "x": 607713.5936706876,
+        "y": 2416364.406819634,
+        "zipCode": "94190"
+    },
+    {
+        "city": "Villeneuve-Saint-Georges",
+        "elevator": false,
+        "id": "stop_area:0:SA:8768182",
+        "name": "gare de villeneuve st georges",
+        "x": 608122.0109803317,
+        "y": 2414633.149436754,
+        "zipCode": "94190"
+    },
+    {
+        "city": "Melun",
+        "elevator": false,
+        "id": "stop_area:0:SA:8768200",
+        "name": "gare de melun",
+        "x": 623537.2016306395,
+        "y": 2392110.5760406777,
+        "zipCode": "77000"
+    },
+    {
+        "city": "Montgeron",
+        "elevator": true,
+        "id": "stop_area:0:SA:8768210",
+        "name": "gare de montgeron crosne",
+        "x": 609286.8369290329,
+        "y": 2412167.376913544,
+        "zipCode": "91230"
+    },
+    {
+        "city": "Yerres",
+        "elevator": true,
+        "id": "stop_area:0:SA:8768211",
+        "name": "gare de yerres",
+        "x": 610804.0013932771,
+        "y": 2412054.1810278506,
+        "zipCode": "91330"
+    },
+    {
+        "city": "Brunoy",
+        "elevator": true,
+        "id": "stop_area:0:SA:8768212",
+        "name": "gare de brunoy",
+        "x": 612473.6904332903,
+        "y": 2411235.69500013,
+        "zipCode": "91800"
+    },
+    {
+        "city": "Boussy-Saint-Antoine",
+        "elevator": true,
+        "id": "stop_area:0:SA:8768213",
+        "name": "gare de boussy st antoine",
+        "x": 614502.9094807267,
+        "y": 2409268.6796062184,
+        "zipCode": "91800"
+    },
+    {
+        "city": "Combs-la-Ville",
+        "elevator": true,
+        "id": "stop_area:0:SA:8768214",
+        "name": "gare de combs la ville quincy",
+        "x": 615597.0866057151,
+        "y": 2407712.107460168,
+        "zipCode": "77380"
+    },
+    {
+        "city": "Lieusaint",
+        "elevator": true,
+        "id": "stop_area:0:SA:8768215",
+        "name": "gare de lieusaint moissy",
+        "x": 617128.2577414693,
+        "y": 2403284.708582821,
+        "zipCode": "77127"
+    },
+    {
+        "city": "Cesson",
+        "elevator": false,
+        "id": "stop_area:0:SA:8768216",
+        "name": "gare de cesson",
+        "x": 618998.3298548756,
+        "y": 2396289.2178966077,
+        "zipCode": "77240"
+    },
+    {
+        "city": "Le Mée-sur-Seine",
+        "elevator": false,
+        "id": "stop_area:0:SA:8768217",
+        "name": "gare du mee",
+        "x": 621225.2557580972,
+        "y": 2393551.254706147,
+        "zipCode": "77350"
+    },
+    {
+        "city": "Savigny-le-Temple",
+        "elevator": false,
+        "id": "stop_area:0:SA:8768218",
+        "name": "gare de savigny le temple nandy",
+        "x": 618301.7620409757,
+        "y": 2399721.2929409826,
+        "zipCode": "77176"
+    },
+    {
+        "city": "Dammarie-les-Lys",
+        "elevator": false,
+        "id": "stop_area:0:SA:8768250",
+        "name": "gare de vosves",
+        "x": 619405.9818860705,
+        "y": 2390721.9865892576,
+        "zipCode": "77190"
+    },
+    {
+        "city": "Boissise-le-Roi",
+        "elevator": false,
+        "id": "stop_area:0:SA:8768251",
+        "name": "gare de boissise le roi",
+        "x": 617411.6388267243,
+        "y": 2392287.3768441426,
+        "zipCode": "77310"
+    },
+    {
+        "city": "Saint-Fargeau-Ponthierry",
+        "elevator": false,
+        "id": "stop_area:0:SA:8768252",
+        "name": "gare de ponthierry pringy",
+        "x": 615363.3408812293,
+        "y": 2392929.02922063,
+        "zipCode": "77310"
+    },
+    {
+        "city": "Saint-Fargeau-Ponthierry",
+        "elevator": false,
+        "id": "stop_area:0:SA:8768254",
+        "name": "gare de st fargeau",
+        "x": 615222.3302291931,
+        "y": 2396228.6174278855,
+        "zipCode": "77310"
+    },
+    {
+        "city": "Boigneville",
+        "elevator": false,
+        "id": "stop_area:0:SA:8768440",
+        "name": "gare de boigneville",
+        "x": 603124.6828817384,
+        "y": 2371543.016847541,
+        "zipCode": "91720"
+    },
+    {
+        "city": "Le Malesherbois",
+        "elevator": false,
+        "id": "stop_area:0:SA:8768441",
+        "name": "gare de malesherbes",
+        "x": 604816.0322542232,
+        "y": 2366053.964997258,
+        "zipCode": "45330"
+    },
+    {
+        "city": "Paris",
+        "elevator": true,
+        "id": "stop_area:0:SA:8768600",
+        "name": "gare de lyon",
+        "x": 602651.6160358166,
+        "y": 2427415.928095017,
+        "zipCode": "75000"
+    },
+    {
+        "city": "Paris",
+        "elevator": true,
+        "id": "stop_area:0:SA:8775860",
+        "name": "chatelet les halles",
+        "x": 600769.9980888247,
+        "y": 2429276.982973776,
+        "zipCode": "75000"
+    },
+    {
+        "city": "Le Coudray-Montceaux",
+        "elevator": false,
+        "id": "stop_area:0:SA:8799063",
+        "name": "le coudray monceaux la justice",
+        "x": 611205.0229797517,
+        "y": 2396295.0412359033,
+        "zipCode": "91830"
+    }
+]

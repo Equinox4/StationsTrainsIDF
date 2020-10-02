@@ -1,0 +1,227 @@
+[
+    {
+        "id": "stop_area:0:SA:59057",
+        "x": 595201.9879044461,
+        "y": 2426615.05099138,
+        "name": "pont du garigliano - hôpital européen georges pompidou",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59059",
+        "x": 596446.4899169242,
+        "y": 2426042.0164656225,
+        "name": "porte de versailles - parc des expositions",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59060",
+        "x": 597380.4688585291,
+        "y": 2425571.973540703,
+        "name": "brancion",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59527",
+        "x": 597650.0336404176,
+        "y": 2425485.959220276,
+        "name": "porte de vanves",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59062",
+        "x": 598331.7163612721,
+        "y": 2425344.2992105302,
+        "name": "didot",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59063",
+        "x": 598652.4032863856,
+        "y": 2425118.235870574,
+        "name": "jean moulin",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59064",
+        "x": 601116.1822100668,
+        "y": 2424668.3251189734,
+        "name": "poterne des peupliers",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59666",
+        "x": 601721.8696285799,
+        "y": 2424472.422518256,
+        "name": "porte d'italie",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59287",
+        "x": 602537.4884268158,
+        "y": 2424868.145114415,
+        "name": "porte d'ivry",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59107",
+        "x": 599202.2711631174,
+        "y": 2424926.8665180705,
+        "name": "porte d'orleans",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59108",
+        "x": 599749.0208536318,
+        "y": 2424823.22545492,
+        "name": "montsouris",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59109",
+        "x": 600155.5341190008,
+        "y": 2424660.9963575276,
+        "name": "cité universitaire",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59477",
+        "x": 595718.8495028227,
+        "y": 2426435.6146488143,
+        "name": "balard",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59112",
+        "x": 596975.7843353397,
+        "y": 2425728.946190928,
+        "name": "georges brassens",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59120",
+        "x": 600575.5763003412,
+        "y": 2424645.108316922,
+        "name": "stade charlety - porte de gentilly",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59663",
+        "x": 602031.7439488544,
+        "y": 2424594.242143671,
+        "name": "porte de choisy",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59143",
+        "x": 596194.2515631369,
+        "y": 2426269.270363682,
+        "name": "desnouettes",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59722",
+        "x": 602980.635892383,
+        "y": 2425055.052755544,
+        "name": "maryse bastie",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59724",
+        "x": 603268.6112619579,
+        "y": 2425348.163101625,
+        "name": "avenue de france",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59726",
+        "x": 604042.5308529859,
+        "y": 2425906.8573269052,
+        "name": "baron le roy",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59465",
+        "x": 604560.1435645648,
+        "y": 2425951.298686298,
+        "name": "porte de charenton",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59730",
+        "x": 605167.1225966888,
+        "y": 2426351.1323943967,
+        "name": "porte doree",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59732",
+        "x": 605319.5070821911,
+        "y": 2426862.7537746555,
+        "name": "montempoivre",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59734",
+        "x": 605275.6103110326,
+        "y": 2427162.2397105424,
+        "name": "alexandra david-neel",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59228",
+        "x": 605315.6032749534,
+        "y": 2427600.328119508,
+        "name": "porte de vincennes",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    }
+]

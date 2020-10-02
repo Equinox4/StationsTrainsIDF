@@ -1,0 +1,38 @@
+[
+    {
+        "id": "stop_area:0:SA:59325",
+        "x": 604573.1282723738,
+        "y": 2429631.313148712,
+        "name": "gambetta",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59326",
+        "x": 604983.4922677538,
+        "y": 2430395.946145322,
+        "name": "saint-fargeau",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59327",
+        "x": 605230.7031263352,
+        "y": 2430966.411834402,
+        "name": "porte des lilas",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59328",
+        "x": 604842.6818572336,
+        "y": 2429902.021536661,
+        "name": "pelleport",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    }
+]

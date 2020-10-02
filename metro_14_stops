@@ -1,0 +1,83 @@
+[
+    {
+        "id": "stop_area:0:SA:59220",
+        "x": 599186.2604651821,
+        "y": 2430818.505069291,
+        "name": "saint-lazare",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:59290",
+        "x": 599877.9674818987,
+        "y": 2429827.0462753363,
+        "name": "pyramides",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59410",
+        "x": 603253.1932574945,
+        "y": 2426657.2904960634,
+        "name": "bercy",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59411",
+        "x": 603654.983200862,
+        "y": 2426129.0200652033,
+        "name": "cour saint-emilion",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59552",
+        "x": 602216.9764609117,
+        "y": 2425360.802676129,
+        "name": "olympiades",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59553",
+        "x": 602909.9998975887,
+        "y": 2425718.0384938717,
+        "name": "bibliothèque-françois mitterrand",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": false
+    },
+    {
+        "id": "stop_area:0:SA:8768600",
+        "x": 602651.6160358166,
+        "y": 2427415.928095017,
+        "name": "gare de lyon",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59412",
+        "x": 599080.6702462608,
+        "y": 2430088.9382524393,
+        "name": "madeleine",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    },
+    {
+        "id": "stop_area:0:SA:59566",
+        "x": 600814.0276090225,
+        "y": 2428860.183239779,
+        "name": "châtelet",
+        "zipCode": "75000",
+        "city": "Paris",
+        "elevator": true
+    }
+]

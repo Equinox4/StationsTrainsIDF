@@ -57,7 +57,7 @@
         "id": "stop_area:0:SA:59231",
         "x": 600335.0237756209,
         "y": 2429262.703292665,
-        "name": "Louvre-Rivoli",
+        "name": "Louvre – Rivoli",
         "zipCode": "75000",
         "city": "Paris",
         "elevator": false
@@ -66,7 +66,7 @@
         "id": "stop_area:0:SA:59232",
         "x": 598039.0749753186,
         "y": 2430076.9687247956,
-        "name": "Franklin-Roosevelt",
+        "name": "Franklin Roosevelt",
         "zipCode": "75000",
         "city": "Paris",
         "elevator": false
@@ -156,7 +156,7 @@
         "id": "stop_area:0:SA:59591",
         "x": 599932.9425171308,
         "y": 2429522.5063263034,
-        "name": "Palais-Royal (Musée du Louvre)",
+        "name": "Palais Royal (Musée du Louvre)",
         "zipCode": "75000",
         "city": "Paris",
         "elevator": false

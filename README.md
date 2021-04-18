@@ -1,9 +1,12 @@
 # Liste des stations des trains/RERs/Metros/Tramways au format json
 
-Les noms des stations ont été reformatés correctement
-Sont indiqués également l'identifiant de la station (TODO insérer nom du format de l'id), la position géographique, la ville dans laquelle se trouve la station + code postal et la  présence ou non d'un ascensseur
+Les noms des stations ont été reformatés correctement.
 
-TODO faire un tableau pour décrire les objets json
+Sont indiqués également l'identifiant de la station <!-- (TODO insérer nom du format de l'id) -->, la position géographique, la ville dans laquelle se trouve la station + code postal et la présence ou non d'un ascensseur.
+
+Servira de base pour une furure application qui fournira les horaires de passage en temps réel.
+
+<!-- TODO faire un tableau pour décrire les objets json -->
 
 Work in progress..
 

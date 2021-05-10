@@ -28,7 +28,7 @@ Ci-dessous la liste des lignes disponibles, et leurs état d'avancement:
 - [X] A
 - [X] B
 - [X] C
-- [ ] D
+- [X] D
 - [X] E
 
 ## Metros

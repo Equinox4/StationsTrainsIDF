@@ -1,4 +1,4 @@
-# Liste des stations des trains/RERs/Metros/Tramways au format json
+# Liste des stations des trains/RERs/Metros/Tramways en IDF au format json
 
 Les noms des stations ont été reformatés correctement.
 

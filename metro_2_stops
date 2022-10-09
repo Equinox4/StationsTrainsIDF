@@ -3,7 +3,8 @@
         "id": "stop_area:0:SA:59213",
         "x": 595476.003438138,
         "y": 2430387.98050373,
-        "name": "porte dauphine (maréchal de lattre de tassigny)",
+        "name": "Porte Dauphine",
+        "subName": "Maréchal de Lattre de Tassigny",
         "zipCode": "75000",
         "city": "Paris",
         "elevator": false
@@ -12,7 +13,7 @@
         "id": "stop_area:0:SA:59218",
         "x": 601722.1765830276,
         "y": 2431798.178195415,
-        "name": "la chapelle",
+        "name": "La Chapelle",
         "zipCode": "75000",
         "city": "Paris",
         "elevator": false
@@ -21,7 +22,7 @@
         "id": "stop_area:0:SA:8775810",
         "x": 604391.9279627617,
         "y": 2427810.8537192745,
-        "name": "nation",
+        "name": "Nation",
         "zipCode": "75000",
         "city": "Paris",
         "elevator": true
@@ -30,7 +31,7 @@
         "id": "stop_area:0:SA:59236",
         "x": 596975.4994688506,
         "y": 2430562.343506515,
-        "name": "charles de gaulle-etoile",
+        "name": "Charles de Gaulle – Étoile",
         "zipCode": "75000",
         "city": "Paris",
         "elevator": false
@@ -39,7 +40,7 @@
         "id": "stop_area:0:SA:59279",
         "x": 602333.5863457234,
         "y": 2431809.1804387374,
-        "name": "stalingrad",
+        "name": "Stalingrad",
         "zipCode": "75000",
         "city": "Paris",
         "elevator": false
@@ -48,7 +49,7 @@
         "id": "stop_area:0:SA:59406",
         "x": 602979.5273181613,
         "y": 2430429.965368386,
-        "name": "belleville",
+        "name": "Belleville",
         "zipCode": "75000",
         "city": "Paris",
         "elevator": false
@@ -57,7 +58,7 @@
         "id": "stop_area:0:SA:59415",
         "x": 598504.9721566838,
         "y": 2431466.007875697,
-        "name": "villiers",
+        "name": "Villiers",
         "zipCode": "75000",
         "city": "Paris",
         "elevator": false
@@ -66,7 +67,7 @@
         "id": "stop_area:0:SA:59416",
         "x": 597098.0696040033,
         "y": 2431128.968540847,
-        "name": "ternes",
+        "name": "Ternes",
         "zipCode": "75000",
         "city": "Paris",
         "elevator": false
@@ -75,7 +76,7 @@
         "id": "stop_area:0:SA:59417",
         "x": 596245.8194472416,
         "y": 2430170.226140503,
-        "name": "victor hugo",
+        "name": "Victor Hugo",
         "zipCode": "75000",
         "city": "Paris",
         "elevator": false
@@ -84,7 +85,7 @@
         "id": "stop_area:0:SA:59418",
         "x": 598829.4965847236,
         "y": 2431527.4614274767,
-        "name": "rome",
+        "name": "Rome",
         "zipCode": "75000",
         "city": "Paris",
         "elevator": false
@@ -93,7 +94,7 @@
         "id": "stop_area:0:SA:59419",
         "x": 603851.6092113614,
         "y": 2428934.0394518226,
-        "name": "philippe auguste",
+        "name": "Philippe Auguste",
         "zipCode": "75000",
         "city": "Paris",
         "elevator": false
@@ -102,7 +103,7 @@
         "id": "stop_area:0:SA:59420",
         "x": 600117.4010092025,
         "y": 2431533.3401101786,
-        "name": "pigalle",
+        "name": "Pigalle",
         "zipCode": "75000",
         "city": "Paris",
         "elevator": false
@@ -111,7 +112,7 @@
         "id": "stop_area:0:SA:59421",
         "x": 599338.3653449712,
         "y": 2431672.8041471094,
-        "name": "place de clichy",
+        "name": "Place de Clichy",
         "zipCode": "75000",
         "city": "Paris",
         "elevator": false
@@ -120,7 +121,7 @@
         "id": "stop_area:0:SA:59422",
         "x": 597975.9661549818,
         "y": 2431349.008348938,
-        "name": "monceau",
+        "name": "Monceau",
         "zipCode": "75000",
         "city": "Paris",
         "elevator": false
@@ -129,7 +130,7 @@
         "id": "stop_area:0:SA:59423",
         "x": 602511.0334522224,
         "y": 2431093.684049696,
-        "name": "colonel fabien",
+        "name": "Colonel Fabien",
         "zipCode": "75000",
         "city": "Paris",
         "elevator": false
@@ -138,7 +139,7 @@
         "id": "stop_area:0:SA:59424",
         "x": 597553.7828269162,
         "y": 2431209.645146229,
-        "name": "courcelles",
+        "name": "Courcelles",
         "zipCode": "75000",
         "city": "Paris",
         "elevator": false
@@ -147,7 +148,7 @@
         "id": "stop_area:0:SA:59425",
         "x": 604089.5525179869,
         "y": 2428624.8798480476,
-        "name": "alexandre-dumas",
+        "name": "Alexandre Dumas",
         "zipCode": "75000",
         "city": "Paris",
         "elevator": false
@@ -156,7 +157,7 @@
         "id": "stop_area:0:SA:59426",
         "x": 600561.0046363584,
         "y": 2431618.3713584407,
-        "name": "anvers",
+        "name": "Anvers",
         "zipCode": "75000",
         "city": "Paris",
         "elevator": false
@@ -165,7 +166,7 @@
         "id": "stop_area:0:SA:59427",
         "x": 604556.3353074841,
         "y": 2428102.718817692,
-        "name": "avron",
+        "name": "Avron",
         "zipCode": "75000",
         "city": "Paris",
         "elevator": false
@@ -174,7 +175,7 @@
         "id": "stop_area:0:SA:59428",
         "x": 599713.6452394166,
         "y": 2431657.9709705566,
-        "name": "blanche",
+        "name": "Blanche",
         "zipCode": "75000",
         "city": "Paris",
         "elevator": false
@@ -183,7 +184,7 @@
         "id": "stop_area:0:SA:59429",
         "x": 603178.1553372891,
         "y": 2430138.992957899,
-        "name": "couronnes",
+        "name": "Couronnes",
         "zipCode": "75000",
         "city": "Paris",
         "elevator": false
@@ -192,7 +193,7 @@
         "id": "stop_area:0:SA:59584",
         "x": 603755.9751231788,
         "y": 2429345.998499805,
-        "name": "père-lachaise",
+        "name": "Père Lachaise",
         "zipCode": "75000",
         "city": "Paris",
         "elevator": false
@@ -201,7 +202,7 @@
         "id": "stop_area:0:SA:59655",
         "x": 603531.2730323552,
         "y": 2429688.227806127,
-        "name": "ménilmontant",
+        "name": "Ménilmontant",
         "zipCode": "75000",
         "city": "Paris",
         "elevator": false
@@ -210,7 +211,7 @@
         "id": "stop_area:0:SA:59635",
         "x": 602491.2183079713,
         "y": 2431614.3016755404,
-        "name": "jaurès",
+        "name": "Jaurès",
         "zipCode": "75000",
         "city": "Paris",
         "elevator": true
@@ -219,7 +220,7 @@
         "id": "stop_area:0:SA:59632",
         "x": 600949.7023867647,
         "y": 2431720.118339994,
-        "name": "barbès-rochechouart",
+        "name": "Barbès – Rochechouart",
         "zipCode": "75000",
         "city": "Paris",
         "elevator": true

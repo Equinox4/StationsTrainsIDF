@@ -34,10 +34,10 @@ Ci-dessous la liste des lignes disponibles, et leurs état d'avancement:
 ## Metros
 
 - [X] 1
-- [ ] 2
-- [ ] 3
-- [ ] 3B
-- [ ] 4
+- [X] 2
+- [X] 3
+- [X] 3B
+- [X] 4
 - [ ] 5
 - [ ] 6
 - [ ] 7
